@@ -1,0 +1,31 @@
+{
+  "title": "El Niño and essential health services in India: HMIS state-month panel, code, results contract and aggregate data",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "<p>Code, every reported number and the aggregate data of a pre-specified state-month analysis of El Niño and the continuity of essential maternal, child and outpatient services in India (manuscript; citation to follow), from routine Health Management Information System (HMIS) reports for 34 state-level units, April 2012 to February 2020. Negative binomial mixed models relate antenatal care registration, third doses of a DPT-containing vaccine, institutional deliveries, outpatient attendance and reported childhood diarrhoea to the El Niño phase of the traditional Oceanic Niño Index (with a time random effect), to the interaction of El Niño with state monsoon sensitivity and to local heatwave days and rainfall deficit (year-month fixed effects), under verdict rules fixed in a results contract committed before any exposure model was fitted; with pre-specified minimum detectable effects, mediation by local climate, state heterogeneity, distributed lags, the Indian Ocean Dipole, an ENSO-index comparison (traditional ONI, RONI, Niño-3.4) and an out-of-sample forecast comparison.</p><p>Contents: the Python HMIS pipeline (download, parsing of three portal formats, indicator crosswalk, completeness flags, gates) with synthetic test fixtures; the R analysis; the results contract and its dated amendments; every reported number (results.json) with its traceability table; the derived state-month panel and model table (official state rows and district-completeness shares; no district-level values); aggregate outputs and figure data. Raw HMIS workbooks are not redistributed; the HMIS data carry the Government Open Data License – India attribution.</p>",
+  "creators": [
+    {
+      "name": "Siddalingaiah, H S",
+      "affiliation": "Department of Community Medicine, Shridevi Institute of Medical Sciences and Research Hospital, Tumakuru, Karnataka, India",
+      "orcid": "0000-0002-4771-8285"
+    }
+  ],
+  "license": "mit",
+  "keywords": [
+    "El Niño–Southern Oscillation",
+    "health services",
+    "routine health information systems",
+    "HMIS",
+    "antenatal care",
+    "immunisation",
+    "institutional deliveries",
+    "heatwaves",
+    "India",
+    "climate and health"
+  ],
+  "related_identifiers": [
+    {"identifier": "https://github.com/hssling/elnino-hmis-services-india", "relation": "isSupplementTo", "scheme": "url"},
+    {"identifier": "10.5281/zenodo.23632647", "relation": "references", "scheme": "doi"}
+  ],
+  "notes": "Code: MIT licence. Results, aggregate data and derived tables: CC BY 4.0 (see DATA_LICENSE.md); HMIS-derived values carry the Government Open Data License – India attribution (Health Management Information System (HMIS), Ministry of Health and Family Welfare, Government of India; via data.gov.in / hmis.mohfw.gov.in; Government Open Data License – India); GADM-derived unit identifiers remain under the GADM licence. Raw HMIS files, IMD grids and district-level values are not included."
+}

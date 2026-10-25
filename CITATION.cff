@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper (citation to follow on publication) and this repository."
+title: "El Niño and essential health services in India: HMIS state-month panel, code, results contract and aggregate data"
+version: 1.0.0
+date-released: "2026-10-26"
+license: MIT
+repository-code: "https://github.com/hssling/elnino-hmis-services-india"
+type: software
+authors:
+  - family-names: "Siddalingaiah"
+    given-names: "H S"
+    orcid: "https://orcid.org/0000-0002-4771-8285"
+    affiliation: "Department of Community Medicine, Shridevi Institute of Medical Sciences and Research Hospital, Tumakuru, Karnataka, India"
+keywords:
+  - El Niño–Southern Oscillation
+  - health services
+  - routine health information systems
+  - HMIS
+  - antenatal care
+  - immunisation
+  - institutional deliveries
+  - heatwaves
+  - India
+  - climate and health
+abstract: >-
+  Code, results and aggregate data of a pre-specified state-month analysis of El Niño and the continuity of
+  essential maternal, child and outpatient services in India, from routine Health Management Information System
+  (HMIS) reports for 34 state-level units, April 2012 to February 2020: negative binomial mixed models of the total
+  association with the El Niño phase of the traditional Oceanic Niño Index (with a time random effect), within-month
+  comparisons by state monsoon sensitivity and by local heatwave days and rainfall deficit, pre-specified minimum
+  detectable effects, mediation, heterogeneity, distributed lags, an ENSO-index comparison and an out-of-sample
+  forecast comparison. The derived state-month panel is included; raw HMIS files and district-level values are not.
+references:
+  - type: software
+    title: "El Niño Health Vulnerability Atlas of India: code, results contract and aggregate data"
+    authors:
+      - family-names: "Siddalingaiah"
+        given-names: "H S"
+    version: 1.0.0
+    doi: 10.5281/zenodo.23632647
+    repository-code: "https://github.com/hssling/elnino-health-atlas-india"

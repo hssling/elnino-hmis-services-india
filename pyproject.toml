@@ -1,0 +1,6 @@
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-m 'not network and not r and not nfhs' -q"
+markers = ["network: test needs internet access (deselected by default)",
+           "r: runs the R testthat suite (deselected by default; run with -m r)",
+           "nfhs: needs the controlled NFHS data from the DHS Program (deselected by default; run with -m nfhs)"]

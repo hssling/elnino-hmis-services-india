@@ -1,0 +1,15 @@
+indicator,scope,primary5,state_months,reported,masked_negative_share,masked_negative_state,masked_district_sum,masked_plausibility,masked_national_total,masked_partial_component,masked_fy_unusable,kept_by_review,masked,masked_share,comp_lt_090,entering_models,dropped,kept_low,district_sum_tested,national_months_tested,national_months_failed,national_months_not_evaluable,national_months_not_available,national_not_available,negative_district_share,partial_share_max,partial_exempt,note
+diarr_u5,primary,True,3264,3264,0,0,0,28,0,0,0,0,28,0.00857843137254902,93,3143,False,1,2935,94,0,0,2,2017-18 (2 of 12),0.0,0.0,False,
+anc_reg,primary,True,3264,3264,0,0,0,0,0,0,0,0,0,0.0,55,3209,False,0,3136,94,0,0,2,2017-18 (2 of 12),0.0,0.0,False,
+penta3,primary,True,3264,3264,0,0,0,12,0,0,0,0,12,0.003676470588235294,68,3184,False,0,3111,94,0,0,2,2017-18 (2 of 12),0.0,0.08088235294117647,True,
+mcv1,primary,False,3264,3264,0,0,0,2,0,0,0,0,2,0.0006127450980392157,76,3186,False,27,3074,94,0,0,2,2017-18 (2 of 12),0.0,0.0,True,
+fic,primary,False,3264,3264,0,0,0,1,0,0,0,0,1,0.00030637254901960784,78,3185,False,25,3080,94,0,0,2,2017-18 (2 of 12),0.0,0.0,False,
+inst_del,primary,True,3264,3264,0,0,0,0,0,0,0,0,0,0.0,62,3202,False,0,3123,94,0,0,2,2017-18 (2 of 12),0.0,0.0196078431372549,False,
+opd,primary,True,3264,3264,0,0,0,3,0,0,0,0,3,0.0009191176470588235,76,3185,False,0,3045,94,0,0,2,2017-18 (2 of 12),0.0,0.0,False,
+diarr_u5,fy2020_21,True,408,408,0,0,0,4,0,0,0,0,4,0.00980392156862745,62,342,False,72,280,12,0,0,0,,0.0,0.0,False,COVID-period sensitivity; outside the drop and halt rules
+anc_reg,fy2020_21,True,408,408,0,0,0,0,0,0,0,0,0,0.0,60,348,False,4,297,12,0,0,0,,0.0,0.0,False,COVID-period sensitivity; outside the drop and halt rules
+penta3,fy2020_21,True,408,408,0,0,0,0,0,0,0,0,0,0.0,61,347,False,6,295,12,0,0,0,,0.0,0.0,True,COVID-period sensitivity; outside the drop and halt rules
+mcv1,fy2020_21,False,408,408,0,0,0,0,0,0,0,0,0,0.0,62,346,False,8,295,12,0,0,0,,0.0,0.0,True,COVID-period sensitivity; outside the drop and halt rules
+fic,fy2020_21,False,408,408,0,0,0,0,0,0,0,0,0,0.0,62,346,False,7,293,12,0,0,0,,0.0,0.0,False,COVID-period sensitivity; outside the drop and halt rules
+inst_del,fy2020_21,True,408,408,0,0,0,0,0,0,0,0,0,0.0,60,348,False,0,295,12,0,0,0,,0.0,0.0,False,COVID-period sensitivity; outside the drop and halt rules
+opd,fy2020_21,True,408,408,0,0,0,0,0,0,0,0,0,0.0,60,348,False,13,296,12,0,0,0,,0.0,0.0,False,COVID-period sensitivity; outside the drop and halt rules

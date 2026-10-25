@@ -1,0 +1,5 @@
+Package: elninomodels
+Type: Project
+Title: El Nino health modelling (R)
+Version: 0.0.1
+Imports: glmmTMB, data.table, jsonlite, testthat, ggplot2, mgcv, fixest, arrow

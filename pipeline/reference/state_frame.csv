@@ -1,0 +1,35 @@
+unit_id,unit_name,gid1_members,aliases
+AN,Andaman and Nicobar Islands,IND.1_1,Andaman and Nicobar|Andaman & Nicobar Islands|A & N Islands|A&N Islands|Andaman & Nicobar|A and N Islands|A.N.Islands|A & N Island|A & NIslands
+AP_TG,Andhra Pradesh and Telangana,IND.2_1|IND.32_1,Andhra Pradesh|Telangana|Telengana|Andhra Pradesh & Telangana|Andhra Pra.|Andhra Padesh|Andhra Pd.|Andhra Pradesh Old
+AR,Arunachal Pradesh,IND.3_1,Arunachal Pradesh|Arunachal|Arunachal Pra.|Arunachal Pd.
+AS,Assam,IND.4_1,Assam
+BR,Bihar,IND.5_1,Bihar
+CH,Chandigarh,IND.6_1,Chandigarh
+CG,Chhattisgarh,IND.7_1,Chhattisgarh|Chattisgarh|Chhatisgarh|Chhattishgarh
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,IND.8_1|IND.9_1,Dadra and Nagar Haveli|Dadra & Nagar Haveli|D & N Haveli|D&N Haveli|Daman and Diu|Daman & Diu|Dadra and Nagar Haveli and Daman and Diu|DNH and DD|D&NH and D&D|DNH & DD|DN Haveli & Daman & Diu|DN H & D D|The Dadra And Nagar Haveli And Daman|D & N Haveli and Daman & Diu
+DL,Delhi,IND.25_1,Delhi|NCT of Delhi|Delhi (UT)|National Capital Territory of Delhi|NCT Delhi
+GA,Goa,IND.10_1,Goa
+GJ,Gujarat,IND.11_1,Gujarat
+HR,Haryana,IND.12_1,Haryana
+HP,Himachal Pradesh,IND.13_1,Himachal Pradesh|Himachal Pd.
+JK,Jammu and Kashmir (incl. Ladakh),IND.14_1,Jammu and Kashmir|Jammu & Kashmir|Jammu-Kashmir|J & K|J&K|Ladakh
+JH,Jharkhand,IND.15_1,Jharkhand
+KA,Karnataka,IND.16_1,Karnataka
+KL,Kerala,IND.17_1,Kerala
+LD,Lakshadweep,IND.18_1,Lakshadweep|Lakshadweep Islands|Lakshdweep
+MP,Madhya Pradesh,IND.19_1,Madhya Pradesh|Madhya Pd.
+MH,Maharashtra,IND.20_1,Maharashtra
+MN,Manipur,IND.21_1,Manipur
+ML,Meghalaya,IND.22_1,Meghalaya
+MZ,Mizoram,IND.23_1,Mizoram
+NL,Nagaland,IND.24_1,Nagaland
+OD,Odisha,IND.26_1,Odisha|Orissa
+PY,Puducherry,IND.27_1,Puducherry|Pondicherry|Puduchery|Pudducherry
+PB,Punjab,IND.28_1,Punjab
+RJ,Rajasthan,IND.29_1,Rajasthan|Rajsthan
+SK,Sikkim,IND.30_1,Sikkim
+TN,Tamil Nadu,IND.31_1,Tamil Nadu|Tamilnadu
+TR,Tripura,IND.33_1,Tripura
+UP,Uttar Pradesh,IND.34_1,Uttar Pradesh
+UK,Uttarakhand,IND.35_1,Uttarakhand|Uttaranchal|Uttrakhand|Uttarkhand
+WB,West Bengal,IND.36_1,West Bengal

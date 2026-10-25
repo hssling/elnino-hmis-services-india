@@ -1,0 +1,31 @@
+item,value,note
+results_code_commit,584aa26,"last commit touching models/E, pipeline/hmis, papers/E/results_keys.md"
+results_code_dirty,FALSE,TRUE if those paths had uncommitted changes when results.json was assembled
+seed,20261024,SEED_E (models/E/R/common_e.R)
+n_keys,674,keys in results.json (= contract)
+n_pending,0,keys displayed 'pending (<script> not finished)'; a results.json with pending keys is not committed
+input:data/derived/hmis/hmis_state_month.csv,b2338919ebf02e66c2195c0c9318e9cf48bbb2bb39cf06b9e98dece0abf48e28,"sha256 (CRLF -> LF); committed, clean"
+input:data/derived/hmis/hmis_model.csv,6c27e7ded3335e5e01c61f8da198fce720ca12062954a3de3ea86af8659ec585,"sha256 (CRLF -> LF); committed, clean"
+input:data/derived/enso_monthly.csv,711f13c9387116d9b0d084ac36cc808036d2ca854b0f43e8a4228ea51ab83556,"sha256 (CRLF -> LF); committed, clean"
+input:papers/D/output/risk_index.csv,e7bde2cc2ea8c5c6099cd447a1971bde65d72f7814f1465d3270865c3c8cff50,"sha256 (CRLF -> LF); committed, clean"
+input:pipeline/reference/hmis_item_crosswalk.csv,19d552e62776365d11df782c1bd88ca76d9763a359f01d2137873f1c38f0516d,"sha256 (CRLF -> LF); committed, clean"
+step:power,cached,models/E/01_power.R; 36 keys from its cache
+cache:power,6e9ef4fd0c25d989fc0702bc879ea2d1b82750904b63aeeb6d12b47d6a4259a2,sha256 of models/E/_cache/power.rds (git-ignored)
+output:papers/E/output/power.csv,75cf21f859cfcc6e184c4e19569f648a2fa45ffdad68d73712a0ed2dd68981ec,"sha256 (CRLF -> LF); equals the cached table; committed, clean"
+step:primary,cached,models/E/02_primary.R; 156 keys from its cache
+cache:primary,5e126f7e490cefed65725c9bc4f91a2506949d60306894b1fff0e4466c7ae58a,sha256 of models/E/_cache/primary.rds (git-ignored)
+output:papers/E/output/primary_estimates.csv,29b6fdd8c55287eb812ce9dc92d06b75b060e4f5e2db5b404c8fc53cd72cbbf7,"sha256 (CRLF -> LF); equals the cached table; committed, clean"
+step:mediation,cached,models/E/03_mediation.R; 35 keys from its cache
+cache:mediation,d492ea02b25f49bba08c61443d6766697f115b6f53e01951044fa32fa517cc17,sha256 of models/E/_cache/mediation.rds (git-ignored)
+output:papers/E/output/mediation.csv,1751ba87270c10bc48ee7b50708a4984f868df0871ece40a08385aa15aa5633d,"sha256 (CRLF -> LF); equals the cached table; committed, clean"
+step:secondary,cached,models/E/04_secondary.R; 214 keys from its cache
+cache:secondary,b79040b4641f9b8c5cd1f9940e2b3bff77a0610957333bba6be6ac3e8e6ceca8,sha256 of models/E/_cache/secondary.rds (git-ignored)
+output:papers/E/output/sensitivity.csv,cb1a246fef5f624ac44b934c662576482fa2732153398a70f1dc4973ec6a6972,"sha256 (CRLF -> LF); equals the cached table; committed, clean"
+output:papers/E/output/dlm.csv,8b21e9ed847e87a7907139275d6e69a9db8665961873dda7f247fca07092479f,"sha256 (CRLF -> LF); equals the cached table; committed, clean"
+output:papers/E/output/iod.csv,790fe7be68b641c75dbfa9f87c8821b50b5ccd7e4e40ee362b5b483f09155815,"sha256 (CRLF -> LF); equals the cached table; committed, clean"
+output:papers/E/output/heterogeneity.csv,3f6a23dd9582397b34c27c848bd6ac51033162682d40350f8272a3e7d928d155,"sha256 (CRLF -> LF); equals the cached table; committed, clean"
+output:papers/E/output/het_modes.csv,05dc5400d45fe8cd3e7adb3e1e7dfd033847a0749defb6da624833916eef47e0,"sha256 (CRLF -> LF); equals the cached table; committed, clean"
+step:forecast,cached,models/E/05_forecast.R; 168 keys from its cache
+cache:forecast,cf6db71ff653d84c0ecb6ac0b0c829eccb37f15aa70cbe2a36f6aa786657267d,sha256 of models/E/_cache/forecast.rds (git-ignored)
+output:papers/E/output/forecast_skill.csv,36d7546114b554db718cc9850988c1f16f0cd02a70dee73b98089e3b559cb488,"sha256 (CRLF -> LF); equals the cached table; committed, clean"
+output:papers/E/output/index_comparison.csv,9ca4a4a723665e9c698c9e40fef4665ebdeb75a2fe518e1291bec206a915098f,"sha256 (CRLF -> LF); equals the cached table; committed, clean"

@@ -1,0 +1,8 @@
+indicator,label,n_state_months,count_q1,count_median,count_q3,source
+anc_reg,ANC registration,3175,4011.5,41082,97311.5,data/derived/hmis/hmis_model.csv
+penta3,Third dose of a DPT-containing vaccine,3150,1741.5,27788.5,90267.5,data/derived/hmis/hmis_model.csv
+inst_del,Institutional deliveries,3168,2161.5,24445,77217.75,data/derived/hmis/hmis_model.csv
+opd,Outpatient attendance,3151,208337.5,1516633,5606538,data/derived/hmis/hmis_model.csv
+diarr_u5,Diarrhoea in children under 5 years,3109,935,3460,13136,data/derived/hmis/hmis_model.csv
+mcv1,First dose of a measles-containing vaccine,3152,1731,29247.5,87634,data/derived/hmis/hmis_model.csv
+fic,Full immunisation,3151,1626,28729,85842.5,data/derived/hmis/hmis_model.csv

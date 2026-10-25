@@ -1,0 +1,3265 @@
+unit_id,unit_name,ym,year,month,comp_diarr_u5,comp_anc_reg,comp_penta3,comp_mcv1,comp_fic,comp_inst_del,comp_opd,comp_min5,band
+AN,Andaman and Nicobar Islands,24147,2012,4,1,1,1,1,1,1,0.666667,0.666667,lt075
+AN,Andaman and Nicobar Islands,24148,2012,5,1,1,1,1,1,1,0.666667,0.666667,lt075
+AN,Andaman and Nicobar Islands,24149,2012,6,1,1,1,1,1,1,0.666667,0.666667,lt075
+AN,Andaman and Nicobar Islands,24150,2012,7,0.666667,1,1,1,1,1,1,0.666667,lt075
+AN,Andaman and Nicobar Islands,24151,2012,8,0.666667,1,1,1,1,1,1,0.666667,lt075
+AN,Andaman and Nicobar Islands,24152,2012,9,1,1,1,1,1,1,0.666667,0.666667,lt075
+AN,Andaman and Nicobar Islands,24153,2012,10,1,1,1,1,1,1,0.666667,0.666667,lt075
+AN,Andaman and Nicobar Islands,24154,2012,11,1,1,1,1,1,1,0.666667,0.666667,lt075
+AN,Andaman and Nicobar Islands,24155,2012,12,0.666667,1,1,1,1,1,0.666667,0.666667,lt075
+AN,Andaman and Nicobar Islands,24156,2013,1,1,1,1,1,1,1,0.666667,0.666667,lt075
+AN,Andaman and Nicobar Islands,24157,2013,2,1,1,1,1,1,1,0.666667,0.666667,lt075
+AN,Andaman and Nicobar Islands,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24159,2013,4,1,1,1,1,1,1,0.666667,0.666667,lt075
+AN,Andaman and Nicobar Islands,24160,2013,5,1,1,1,1,1,1,0.666667,0.666667,lt075
+AN,Andaman and Nicobar Islands,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24162,2013,7,1,1,1,1,1,1,0.666667,0.666667,lt075
+AN,Andaman and Nicobar Islands,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24235,2019,8,0.666667,1,1,1,1,1,1,0.666667,lt075
+AN,Andaman and Nicobar Islands,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+AN,Andaman and Nicobar Islands,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24147,2012,4,0.695652,1,0.956522,0.956522,0.956522,1,0.913043,0.695652,lt075
+AP_TG,Andhra Pradesh and Telangana,24148,2012,5,0.73913,1,1,1,0.956522,1,1,0.73913,lt075
+AP_TG,Andhra Pradesh and Telangana,24149,2012,6,0.73913,1,0.913043,0.956522,0.869565,1,1,0.73913,lt075
+AP_TG,Andhra Pradesh and Telangana,24150,2012,7,0.73913,1,1,1,0.956522,1,1,0.73913,lt075
+AP_TG,Andhra Pradesh and Telangana,24151,2012,8,0.73913,1,1,1,1,1,1,0.73913,lt075
+AP_TG,Andhra Pradesh and Telangana,24152,2012,9,0.782609,1,1,0.956522,1,1,1,0.782609,075_090
+AP_TG,Andhra Pradesh and Telangana,24153,2012,10,0.782609,1,1,1,1,1,1,0.782609,075_090
+AP_TG,Andhra Pradesh and Telangana,24154,2012,11,0.913043,1,1,1,1,1,1,0.913043,ge090
+AP_TG,Andhra Pradesh and Telangana,24155,2012,12,0.869565,1,1,1,1,1,1,0.869565,075_090
+AP_TG,Andhra Pradesh and Telangana,24156,2013,1,0.913043,1,1,1,1,1,0.956522,0.913043,ge090
+AP_TG,Andhra Pradesh and Telangana,24157,2013,2,0.913043,1,1,0.956522,1,1,0.956522,0.913043,ge090
+AP_TG,Andhra Pradesh and Telangana,24158,2013,3,0.913043,1,1,1,1,1,0.956522,0.913043,ge090
+AP_TG,Andhra Pradesh and Telangana,24159,2013,4,0.913043,1,1,1,1,1,0.956522,0.913043,ge090
+AP_TG,Andhra Pradesh and Telangana,24160,2013,5,0.913043,1,1,1,1,1,0.956522,0.913043,ge090
+AP_TG,Andhra Pradesh and Telangana,24161,2013,6,0.956522,1,1,1,1,1,0.956522,0.956522,ge090
+AP_TG,Andhra Pradesh and Telangana,24162,2013,7,1,1,1,1,1,1,0.956522,0.956522,ge090
+AP_TG,Andhra Pradesh and Telangana,24163,2013,8,1,1,1,1,1,1,0.956522,0.956522,ge090
+AP_TG,Andhra Pradesh and Telangana,24164,2013,9,1,1,1,1,1,1,0.956522,0.956522,ge090
+AP_TG,Andhra Pradesh and Telangana,24165,2013,10,1,1,1,1,1,1,0.956522,0.956522,ge090
+AP_TG,Andhra Pradesh and Telangana,24166,2013,11,1,1,1,1,1,1,0.956522,0.956522,ge090
+AP_TG,Andhra Pradesh and Telangana,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24181,2015,2,0.956522,1,1,1,1,1,1,0.956522,ge090
+AP_TG,Andhra Pradesh and Telangana,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24183,2015,4,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,lt075
+AP_TG,Andhra Pradesh and Telangana,24184,2015,5,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,lt075
+AP_TG,Andhra Pradesh and Telangana,24185,2015,6,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,lt075
+AP_TG,Andhra Pradesh and Telangana,24186,2015,7,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,lt075
+AP_TG,Andhra Pradesh and Telangana,24187,2015,8,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,lt075
+AP_TG,Andhra Pradesh and Telangana,24188,2015,9,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,lt075
+AP_TG,Andhra Pradesh and Telangana,24189,2015,10,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,lt075
+AP_TG,Andhra Pradesh and Telangana,24190,2015,11,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,lt075
+AP_TG,Andhra Pradesh and Telangana,24191,2015,12,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,lt075
+AP_TG,Andhra Pradesh and Telangana,24192,2016,1,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,lt075
+AP_TG,Andhra Pradesh and Telangana,24193,2016,2,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,lt075
+AP_TG,Andhra Pradesh and Telangana,24194,2016,3,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,0.522727,lt075
+AP_TG,Andhra Pradesh and Telangana,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24216,2018,1,0.977273,1,1,1,1,1,1,0.977273,ge090
+AP_TG,Andhra Pradesh and Telangana,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24219,2018,4,0.977273,1,1,1,1,1,1,0.977273,ge090
+AP_TG,Andhra Pradesh and Telangana,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24230,2019,3,0.977273,1,1,1,1,1,1,0.977273,ge090
+AP_TG,Andhra Pradesh and Telangana,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24238,2019,11,0.977273,1,1,1,1,1,1,0.977273,ge090
+AP_TG,Andhra Pradesh and Telangana,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+AP_TG,Andhra Pradesh and Telangana,24241,2020,2,0.977273,1,1,1,1,1,1,0.977273,ge090
+AP_TG,Andhra Pradesh and Telangana,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24148,2012,5,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24150,2012,7,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24152,2012,9,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24153,2012,10,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24155,2012,12,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24171,2014,4,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,ge090
+AR,Arunachal Pradesh,24172,2014,5,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,ge090
+AR,Arunachal Pradesh,24173,2014,6,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,ge090
+AR,Arunachal Pradesh,24174,2014,7,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,ge090
+AR,Arunachal Pradesh,24175,2014,8,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,ge090
+AR,Arunachal Pradesh,24176,2014,9,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,ge090
+AR,Arunachal Pradesh,24177,2014,10,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,ge090
+AR,Arunachal Pradesh,24178,2014,11,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,ge090
+AR,Arunachal Pradesh,24179,2014,12,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,ge090
+AR,Arunachal Pradesh,24180,2015,1,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,ge090
+AR,Arunachal Pradesh,24181,2015,2,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,ge090
+AR,Arunachal Pradesh,24182,2015,3,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,0.941176,ge090
+AR,Arunachal Pradesh,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24195,2016,4,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,ge090
+AR,Arunachal Pradesh,24196,2016,5,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,075_090
+AR,Arunachal Pradesh,24197,2016,6,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,075_090
+AR,Arunachal Pradesh,24198,2016,7,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,075_090
+AR,Arunachal Pradesh,24199,2016,8,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,075_090
+AR,Arunachal Pradesh,24200,2016,9,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,075_090
+AR,Arunachal Pradesh,24201,2016,10,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,075_090
+AR,Arunachal Pradesh,24202,2016,11,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,075_090
+AR,Arunachal Pradesh,24203,2016,12,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,075_090
+AR,Arunachal Pradesh,24204,2017,1,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,075_090
+AR,Arunachal Pradesh,24205,2017,2,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,075_090
+AR,Arunachal Pradesh,24206,2017,3,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,075_090
+AR,Arunachal Pradesh,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24217,2018,2,0.95,1,1,0.95,0.95,1,1,0.95,ge090
+AR,Arunachal Pradesh,24218,2018,3,0.95,1,1,1,1,1,1,0.95,ge090
+AR,Arunachal Pradesh,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24225,2018,10,0.95,1,1,1,1,1,1,0.95,ge090
+AR,Arunachal Pradesh,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+AR,Arunachal Pradesh,24235,2019,8,0.95,1,1,1,1,1,1,0.95,ge090
+AR,Arunachal Pradesh,24236,2019,9,0.95,1,1,1,1,1,1,0.95,ge090
+AR,Arunachal Pradesh,24237,2019,10,0.95,1,1,1,1,1,1,0.95,ge090
+AR,Arunachal Pradesh,24238,2019,11,0.95,1,1,1,1,1,1,0.95,ge090
+AR,Arunachal Pradesh,24239,2019,12,0.95,1,1,1,1,1,1,0.95,ge090
+AR,Arunachal Pradesh,24240,2020,1,0.95,1,1,1,1,1,1,0.95,ge090
+AR,Arunachal Pradesh,24241,2020,2,0.95,1,1,1,1,1,1,0.95,ge090
+AR,Arunachal Pradesh,24242,2020,3,0.95,1,1,1,1,1,0.95,0.95,ge090
+AS,Assam,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24148,2012,5,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24150,2012,7,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24152,2012,9,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24153,2012,10,0.962963,1,1,1,1,1,1,0.962963,ge090
+AS,Assam,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24155,2012,12,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+AS,Assam,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24147,2012,4,0.973684,1,1,1,1,1,1,0.973684,ge090
+BR,Bihar,24148,2012,5,0.973684,1,1,1,1,1,1,0.973684,ge090
+BR,Bihar,24149,2012,6,0.973684,1,1,1,1,1,1,0.973684,ge090
+BR,Bihar,24150,2012,7,0.973684,1,1,1,1,1,1,0.973684,ge090
+BR,Bihar,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24152,2012,9,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24153,2012,10,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24155,2012,12,0.973684,1,1,0.947368,0.947368,1,1,0.973684,ge090
+BR,Bihar,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24157,2013,2,0.973684,1,1,1,1,1,1,0.973684,ge090
+BR,Bihar,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24159,2013,4,0.973684,1,1,1,1,1,1,0.973684,ge090
+BR,Bihar,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24162,2013,7,0.973684,1,1,1,1,0.973684,0.973684,0.973684,ge090
+BR,Bihar,24163,2013,8,0.973684,1,1,1,1,1,1,0.973684,ge090
+BR,Bihar,24164,2013,9,0.973684,1,1,1,1,1,1,0.973684,ge090
+BR,Bihar,24165,2013,10,0.973684,1,1,1,1,1,1,0.973684,ge090
+BR,Bihar,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24167,2013,12,0.973684,1,1,1,1,1,1,0.973684,ge090
+BR,Bihar,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24177,2014,10,0.973684,1,1,1,1,1,1,0.973684,ge090
+BR,Bihar,24178,2014,11,0.973684,1,1,1,1,1,1,0.973684,ge090
+BR,Bihar,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24181,2015,2,0.973684,1,1,1,1,1,1,0.973684,ge090
+BR,Bihar,24182,2015,3,0.973684,1,1,1,1,1,1,0.973684,ge090
+BR,Bihar,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24204,2017,1,0.973684,1,1,1,1,1,1,0.973684,ge090
+BR,Bihar,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24208,2017,5,0.973684,1,1,1,1,1,1,0.973684,ge090
+BR,Bihar,24209,2017,6,0.973684,1,1,1,1,1,1,0.973684,ge090
+BR,Bihar,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24229,2019,2,1,1,1,0.973684,0.973684,1,1,1,ge090
+BR,Bihar,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+BR,Bihar,24241,2020,2,0.973684,1,1,1,1,1,1,0.973684,ge090
+BR,Bihar,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24148,2012,5,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24150,2012,7,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24152,2012,9,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24153,2012,10,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24155,2012,12,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+CH,Chandigarh,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24148,2012,5,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24150,2012,7,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24152,2012,9,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24153,2012,10,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24155,2012,12,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+CG,Chhattisgarh,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24148,2012,5,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24150,2012,7,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24152,2012,9,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24153,2012,10,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24155,2012,12,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+DNH_DD,Dadra and Nagar Haveli and Daman and Diu,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24148,2012,5,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24150,2012,7,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24152,2012,9,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24153,2012,10,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24155,2012,12,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+DL,Delhi,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24148,2012,5,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24150,2012,7,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24152,2012,9,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24153,2012,10,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24155,2012,12,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+GA,Goa,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24147,2012,4,0.727273,0.787879,0.787879,0.787879,0.787879,0.757576,0.727273,0.727273,lt075
+GJ,Gujarat,24148,2012,5,0.757576,0.787879,0.787879,0.787879,0.787879,0.787879,0.727273,0.727273,lt075
+GJ,Gujarat,24149,2012,6,0.727273,0.787879,0.787879,0.787879,0.787879,0.787879,0.727273,0.727273,lt075
+GJ,Gujarat,24150,2012,7,0.757576,0.787879,0.787879,0.787879,0.787879,0.787879,0.727273,0.727273,lt075
+GJ,Gujarat,24151,2012,8,0.757576,0.787879,0.787879,0.787879,0.787879,0.787879,0.727273,0.727273,lt075
+GJ,Gujarat,24152,2012,9,0.757576,0.787879,0.787879,0.787879,0.787879,0.787879,0.727273,0.727273,lt075
+GJ,Gujarat,24153,2012,10,0.757576,0.787879,0.787879,0.787879,0.787879,0.787879,0.727273,0.727273,lt075
+GJ,Gujarat,24154,2012,11,0.757576,0.818182,0.818182,0.818182,0.818182,0.818182,0.757576,0.757576,075_090
+GJ,Gujarat,24155,2012,12,0.878788,0.909091,0.909091,0.909091,0.909091,0.909091,0.878788,0.878788,075_090
+GJ,Gujarat,24156,2013,1,0.939394,0.939394,0.939394,0.939394,0.939394,0.939394,0.939394,0.939394,ge090
+GJ,Gujarat,24157,2013,2,0.969697,0.969697,0.969697,0.969697,0.969697,0.969697,0.969697,0.969697,ge090
+GJ,Gujarat,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24223,2018,8,1,1,1,0.939394,0.939394,1,1,1,ge090
+GJ,Gujarat,24224,2018,9,1,1,1,0.939394,0.939394,1,1,1,ge090
+GJ,Gujarat,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+GJ,Gujarat,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24147,2012,4,0.904762,1,1,1,1,1,1,0.904762,ge090
+HR,Haryana,24148,2012,5,0.904762,1,1,1,1,1,0.952381,0.904762,ge090
+HR,Haryana,24149,2012,6,0.904762,1,1,1,1,1,0.952381,0.904762,ge090
+HR,Haryana,24150,2012,7,0.904762,1,1,1,1,1,1,0.904762,ge090
+HR,Haryana,24151,2012,8,0.857143,1,0.952381,0.952381,0.952381,1,1,0.857143,075_090
+HR,Haryana,24152,2012,9,0.904762,1,1,1,1,1,1,0.904762,ge090
+HR,Haryana,24153,2012,10,0.952381,1,1,1,1,1,1,0.952381,ge090
+HR,Haryana,24154,2012,11,0.904762,1,1,1,1,1,1,0.904762,ge090
+HR,Haryana,24155,2012,12,0.952381,1,0.952381,0.952381,0.904762,0.952381,1,0.952381,ge090
+HR,Haryana,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24220,2018,5,1,1,1,0.909091,0.954545,1,1,1,ge090
+HR,Haryana,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24225,2018,10,0.954545,1,1,1,1,1,1,0.954545,ge090
+HR,Haryana,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+HR,Haryana,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24148,2012,5,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24150,2012,7,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24152,2012,9,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24153,2012,10,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24155,2012,12,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24211,2017,8,1,1,1,0.916667,0.916667,1,1,1,ge090
+HP,Himachal Pradesh,24212,2017,9,1,1,1,0.083333,0.083333,1,1,1,ge090
+HP,Himachal Pradesh,24213,2017,10,1,1,1,0.916667,0.916667,1,1,1,ge090
+HP,Himachal Pradesh,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+HP,Himachal Pradesh,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24147,2012,4,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24148,2012,5,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24149,2012,6,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24150,2012,7,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24151,2012,8,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24152,2012,9,0.954545,1,1,1,1,1,1,0.954545,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24153,2012,10,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24154,2012,11,0.954545,1,1,1,1,1,1,0.954545,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24155,2012,12,0.954545,1,1,1,1,1,1,0.954545,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24156,2013,1,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24157,2013,2,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24158,2013,3,0.954545,1,1,1,1,1,1,0.954545,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24159,2013,4,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24160,2013,5,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24161,2013,6,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24162,2013,7,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24163,2013,8,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24164,2013,9,0.954545,1,0.954545,1,1,1,1,0.954545,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24165,2013,10,1,1,0.954545,1,1,1,1,0.954545,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24166,2013,11,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24167,2013,12,0.954545,1,1,1,1,1,1,0.954545,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24168,2014,1,0.954545,1,1,1,1,1,1,0.954545,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24169,2014,2,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24170,2014,3,0.954545,1,1,1,1,1,1,0.954545,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24171,2014,4,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24172,2014,5,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24173,2014,6,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24174,2014,7,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24175,2014,8,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24176,2014,9,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24177,2014,10,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24178,2014,11,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24179,2014,12,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24180,2015,1,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24181,2015,2,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24182,2015,3,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24183,2015,4,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24184,2015,5,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24185,2015,6,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24186,2015,7,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24187,2015,8,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24188,2015,9,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24189,2015,10,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24190,2015,11,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24191,2015,12,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24192,2016,1,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24193,2016,2,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24194,2016,3,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24195,2016,4,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24196,2016,5,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24197,2016,6,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24198,2016,7,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24199,2016,8,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24200,2016,9,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24201,2016,10,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24202,2016,11,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24203,2016,12,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24204,2017,1,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24205,2017,2,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24206,2017,3,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24207,2017,4,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24208,2017,5,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24209,2017,6,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24210,2017,7,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24211,2017,8,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24212,2017,9,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24213,2017,10,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24214,2017,11,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24215,2017,12,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24216,2018,1,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24217,2018,2,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24218,2018,3,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24219,2018,4,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24220,2018,5,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24221,2018,6,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24222,2018,7,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24223,2018,8,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24224,2018,9,1,1,1,0.909091,0.909091,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24225,2018,10,1,1,1,0.909091,0.909091,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24226,2018,11,1,1,1,0.909091,0.909091,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24227,2018,12,1,1,1,0.954545,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24228,2019,1,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24229,2019,2,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24230,2019,3,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24231,2019,4,0.954545,1,1,1,1,1,1,0.954545,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24232,2019,5,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24233,2019,6,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24234,2019,7,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24235,2019,8,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24236,2019,9,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24237,2019,10,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24238,2019,11,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24239,2019,12,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24240,2020,1,1,1,1,1,1,1,1,1,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24241,2020,2,0.954545,1,1,1,1,1,1,0.954545,ge090
+JK,Jammu and Kashmir (incl. Ladakh),24242,2020,3,0.954545,1,1,1,1,1,1,0.954545,ge090
+JH,Jharkhand,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24148,2012,5,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24150,2012,7,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24152,2012,9,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24153,2012,10,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24155,2012,12,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24223,2018,8,1,1,1,0.916667,0.958333,1,1,1,ge090
+JH,Jharkhand,24224,2018,9,1,1,1,0.916667,0.875,1,1,1,ge090
+JH,Jharkhand,24225,2018,10,1,1,1,0.916667,0.791667,1,1,1,ge090
+JH,Jharkhand,24226,2018,11,1,1,1,0.916667,0.875,1,1,1,ge090
+JH,Jharkhand,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+JH,Jharkhand,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24148,2012,5,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24150,2012,7,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24152,2012,9,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24153,2012,10,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24155,2012,12,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24206,2017,3,1,1,1,0.966667,1,1,1,1,ge090
+KA,Karnataka,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+KA,Karnataka,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24148,2012,5,1,1,1,1,1,1,0.928571,0.928571,ge090
+KL,Kerala,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24150,2012,7,1,1,1,1,1,1,0.928571,0.928571,ge090
+KL,Kerala,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24152,2012,9,1,1,0.928571,1,1,1,0.928571,0.928571,ge090
+KL,Kerala,24153,2012,10,1,1,1,0.928571,0.928571,1,1,1,ge090
+KL,Kerala,24154,2012,11,1,1,0.928571,1,1,1,1,0.928571,ge090
+KL,Kerala,24155,2012,12,1,1,0.928571,1,1,1,1,0.928571,ge090
+KL,Kerala,24156,2013,1,1,1,0.928571,1,1,1,1,0.928571,ge090
+KL,Kerala,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24158,2013,3,1,1,0.928571,1,1,1,1,0.928571,ge090
+KL,Kerala,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24161,2013,6,1,1,1,0.928571,1,1,1,1,ge090
+KL,Kerala,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+KL,Kerala,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24148,2012,5,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24150,2012,7,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24152,2012,9,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24153,2012,10,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24155,2012,12,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+LD,Lakshadweep,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24147,2012,4,0.960784,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,0.960784,ge090
+MP,Madhya Pradesh,24148,2012,5,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,ge090
+MP,Madhya Pradesh,24149,2012,6,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,ge090
+MP,Madhya Pradesh,24150,2012,7,0.980392,0.980392,0.980392,0.921569,0.941176,0.980392,0.980392,0.980392,ge090
+MP,Madhya Pradesh,24151,2012,8,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,ge090
+MP,Madhya Pradesh,24152,2012,9,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,ge090
+MP,Madhya Pradesh,24153,2012,10,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,0.960784,0.960784,ge090
+MP,Madhya Pradesh,24154,2012,11,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,ge090
+MP,Madhya Pradesh,24155,2012,12,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,ge090
+MP,Madhya Pradesh,24156,2013,1,0.921569,0.980392,0.960784,0.941176,0.941176,0.980392,0.921569,0.921569,ge090
+MP,Madhya Pradesh,24157,2013,2,0.960784,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,0.960784,ge090
+MP,Madhya Pradesh,24158,2013,3,0.980392,0.980392,0.980392,0.960784,0.960784,0.980392,0.980392,0.980392,ge090
+MP,Madhya Pradesh,24159,2013,4,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,ge090
+MP,Madhya Pradesh,24160,2013,5,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,ge090
+MP,Madhya Pradesh,24161,2013,6,1,1,1,1,1,0.980392,0.980392,0.980392,ge090
+MP,Madhya Pradesh,24162,2013,7,0.980392,0.980392,0.980392,0.980392,0.980392,0.960784,0.980392,0.960784,ge090
+MP,Madhya Pradesh,24163,2013,8,0.980392,0.980392,0.980392,0.980392,0.980392,0.980392,0.960784,0.960784,ge090
+MP,Madhya Pradesh,24164,2013,9,0.980392,1,1,1,1,1,1,0.980392,ge090
+MP,Madhya Pradesh,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+MP,Madhya Pradesh,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24147,2012,4,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,ge090
+MH,Maharashtra,24148,2012,5,0.942857,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.942857,ge090
+MH,Maharashtra,24149,2012,6,0.914286,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.914286,ge090
+MH,Maharashtra,24150,2012,7,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,ge090
+MH,Maharashtra,24151,2012,8,0.942857,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.942857,ge090
+MH,Maharashtra,24152,2012,9,0.942857,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.942857,ge090
+MH,Maharashtra,24153,2012,10,0.942857,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.942857,ge090
+MH,Maharashtra,24154,2012,11,0.885714,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.885714,075_090
+MH,Maharashtra,24155,2012,12,0.942857,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.942857,ge090
+MH,Maharashtra,24156,2013,1,0.942857,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.942857,ge090
+MH,Maharashtra,24157,2013,2,0.914286,0.971429,0.971429,0.971429,0.971429,0.971429,0.942857,0.914286,ge090
+MH,Maharashtra,24158,2013,3,0.885714,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.885714,075_090
+MH,Maharashtra,24159,2013,4,0.828571,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.828571,075_090
+MH,Maharashtra,24160,2013,5,0.714286,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.714286,lt075
+MH,Maharashtra,24161,2013,6,0.914286,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.914286,ge090
+MH,Maharashtra,24162,2013,7,0.942857,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.942857,ge090
+MH,Maharashtra,24163,2013,8,0.914286,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.914286,ge090
+MH,Maharashtra,24164,2013,9,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,ge090
+MH,Maharashtra,24165,2013,10,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,ge090
+MH,Maharashtra,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24167,2013,12,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,ge090
+MH,Maharashtra,24168,2014,1,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,ge090
+MH,Maharashtra,24169,2014,2,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,0.971429,ge090
+MH,Maharashtra,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24183,2015,4,1,1,0.971429,0.971429,0.971429,1,1,0.971429,ge090
+MH,Maharashtra,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24209,2017,6,0.971429,1,1,1,1,1,1,0.971429,ge090
+MH,Maharashtra,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24215,2017,12,0.971429,1,1,1,1,1,1,0.971429,ge090
+MH,Maharashtra,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24226,2018,11,1,1,1,0.857143,0.885714,1,1,1,ge090
+MH,Maharashtra,24227,2018,12,0.971429,1,1,0.714286,0.771429,1,1,0.971429,ge090
+MH,Maharashtra,24228,2019,1,1,1,1,0.942857,1,1,1,1,ge090
+MH,Maharashtra,24229,2019,2,0.971429,1,1,0.971429,1,1,1,0.971429,ge090
+MH,Maharashtra,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+MH,Maharashtra,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24148,2012,5,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24150,2012,7,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24152,2012,9,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24153,2012,10,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24155,2012,12,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24219,2018,4,1,1,1,1,0.888889,1,1,1,ge090
+MN,Manipur,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+MN,Manipur,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24147,2012,4,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24148,2012,5,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24149,2012,6,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24150,2012,7,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24151,2012,8,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24152,2012,9,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24153,2012,10,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24154,2012,11,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24155,2012,12,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24156,2013,1,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24157,2013,2,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24158,2013,3,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24159,2013,4,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24160,2013,5,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24161,2013,6,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24162,2013,7,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24163,2013,8,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24164,2013,9,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24165,2013,10,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24166,2013,11,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24167,2013,12,0.727273,0.727273,0.727273,0.727273,0.727273,0.727273,0.727273,0.727273,lt075
+ML,Meghalaya,24168,2014,1,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24169,2014,2,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24170,2014,3,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,0.636364,lt075
+ML,Meghalaya,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24218,2018,3,1,1,1,0.818182,0.909091,1,1,1,ge090
+ML,Meghalaya,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24225,2018,10,1,1,1,0.727273,0.727273,1,1,1,ge090
+ML,Meghalaya,24226,2018,11,1,1,1,0.818182,0.909091,1,1,1,ge090
+ML,Meghalaya,24227,2018,12,1,1,1,0.909091,0.818182,1,1,1,ge090
+ML,Meghalaya,24228,2019,1,1,1,1,0.909091,0.909091,1,1,1,ge090
+ML,Meghalaya,24229,2019,2,1,1,1,0.818182,0.818182,1,1,1,ge090
+ML,Meghalaya,24230,2019,3,1,1,1,0.909091,0.909091,1,1,1,ge090
+ML,Meghalaya,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+ML,Meghalaya,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24148,2012,5,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24150,2012,7,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24152,2012,9,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24153,2012,10,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24155,2012,12,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24219,2018,4,1,1,1,0.666667,0.666667,1,1,1,ge090
+MZ,Mizoram,24220,2018,5,1,1,1,0.777778,0.777778,1,1,1,ge090
+MZ,Mizoram,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+MZ,Mizoram,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24148,2012,5,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24150,2012,7,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24152,2012,9,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24153,2012,10,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24155,2012,12,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24225,2018,10,1,1,1,0.909091,1,1,1,1,ge090
+NL,Nagaland,24226,2018,11,1,1,1,0.909091,0.909091,1,1,1,ge090
+NL,Nagaland,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+NL,Nagaland,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24148,2012,5,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24150,2012,7,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24152,2012,9,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24153,2012,10,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24155,2012,12,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24215,2017,12,1,1,1,0.866667,0.9,1,1,1,ge090
+OD,Odisha,24216,2018,1,1,1,1,0.9,0.933333,1,1,1,ge090
+OD,Odisha,24217,2018,2,1,1,1,0.033333,0.133333,1,1,1,ge090
+OD,Odisha,24218,2018,3,1,1,1,0.333333,0.433333,1,1,1,ge090
+OD,Odisha,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24238,2019,11,1,1,1,0.866667,0.866667,1,1,1,ge090
+OD,Odisha,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+OD,Odisha,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24148,2012,5,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24150,2012,7,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24152,2012,9,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24153,2012,10,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24155,2012,12,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24156,2013,1,0.75,1,1,1,1,1,1,0.75,075_090
+PY,Puducherry,24157,2013,2,0.75,1,0.75,0.75,0.75,1,0.75,0.75,075_090
+PY,Puducherry,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24159,2013,4,0.75,1,1,1,1,1,1,0.75,075_090
+PY,Puducherry,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24205,2017,2,1,1,1,0.75,1,1,1,1,ge090
+PY,Puducherry,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+PY,Puducherry,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24147,2012,4,0.818182,0.909091,0.909091,0.909091,0.909091,0.909091,0.909091,0.818182,075_090
+PB,Punjab,24148,2012,5,0.818182,0.909091,0.909091,0.909091,0.909091,0.909091,0.909091,0.818182,075_090
+PB,Punjab,24149,2012,6,0.909091,0.909091,0.909091,0.909091,0.909091,0.909091,0.909091,0.909091,ge090
+PB,Punjab,24150,2012,7,0.772727,0.909091,0.909091,0.909091,0.909091,0.909091,0.909091,0.772727,075_090
+PB,Punjab,24151,2012,8,0.818182,0.909091,0.909091,0.909091,0.909091,0.909091,0.909091,0.818182,075_090
+PB,Punjab,24152,2012,9,0.863636,0.909091,0.909091,0.909091,0.909091,0.909091,0.909091,0.863636,075_090
+PB,Punjab,24153,2012,10,0.909091,1,1,1,1,1,1,0.909091,ge090
+PB,Punjab,24154,2012,11,0.818182,1,1,1,1,1,1,0.818182,075_090
+PB,Punjab,24155,2012,12,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24156,2013,1,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24157,2013,2,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24158,2013,3,0.863636,1,1,1,1,1,1,0.863636,075_090
+PB,Punjab,24159,2013,4,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24160,2013,5,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24161,2013,6,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24166,2013,11,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24168,2014,1,0.909091,1,1,1,1,1,1,0.909091,ge090
+PB,Punjab,24169,2014,2,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24170,2014,3,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24178,2014,11,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24179,2014,12,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24183,2015,4,0.909091,1,1,1,1,1,1,0.909091,ge090
+PB,Punjab,24184,2015,5,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24185,2015,6,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24188,2015,9,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24193,2016,2,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24195,2016,4,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24200,2016,9,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24201,2016,10,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24202,2016,11,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24203,2016,12,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24204,2017,1,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24206,2017,3,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24220,2018,5,1,1,1,0.727273,0.727273,1,1,1,ge090
+PB,Punjab,24221,2018,6,1,1,1,0.954545,0.954545,1,1,1,ge090
+PB,Punjab,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24224,2018,9,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24228,2019,1,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24231,2019,4,0.954545,1,1,1,1,1,1,0.954545,ge090
+PB,Punjab,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+PB,Punjab,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24148,2012,5,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24150,2012,7,0.969697,1,1,1,1,1,1,0.969697,ge090
+RJ,Rajasthan,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24152,2012,9,0.969697,1,1,1,1,1,1,0.969697,ge090
+RJ,Rajasthan,24153,2012,10,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24155,2012,12,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24170,2014,3,0.969697,1,1,1,1,1,1,0.969697,ge090
+RJ,Rajasthan,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24182,2015,3,0.969697,1,1,1,1,1,1,0.969697,ge090
+RJ,Rajasthan,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24193,2016,2,0.969697,1,1,1,1,1,1,0.969697,ge090
+RJ,Rajasthan,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24235,2019,8,1,1,1,0.969697,1,1,1,1,ge090
+RJ,Rajasthan,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+RJ,Rajasthan,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24148,2012,5,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24150,2012,7,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24152,2012,9,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24153,2012,10,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24155,2012,12,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24235,2019,8,1,1,1,0.5,0.5,1,1,1,ge090
+SK,Sikkim,24236,2019,9,1,1,1,0.5,0.25,1,1,1,ge090
+SK,Sikkim,24237,2019,10,1,1,1,0.75,0.75,1,1,1,ge090
+SK,Sikkim,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+SK,Sikkim,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24147,2012,4,0.96875,1,0.4375,1,1,0.96875,1,0.4375,lt075
+TN,Tamil Nadu,24148,2012,5,1,1,0.40625,1,1,1,1,0.40625,lt075
+TN,Tamil Nadu,24149,2012,6,1,1,0.40625,1,1,1,1,0.40625,lt075
+TN,Tamil Nadu,24150,2012,7,1,1,0.40625,1,1,1,1,0.40625,lt075
+TN,Tamil Nadu,24151,2012,8,1,1,0.40625,1,1,1,1,0.40625,lt075
+TN,Tamil Nadu,24152,2012,9,1,1,0.40625,1,1,1,1,0.40625,lt075
+TN,Tamil Nadu,24153,2012,10,1,1,0.40625,1,1,1,1,0.40625,lt075
+TN,Tamil Nadu,24154,2012,11,1,1,0.4375,1,1,1,1,0.4375,lt075
+TN,Tamil Nadu,24155,2012,12,0.96875,1,0.40625,1,1,1,1,0.40625,lt075
+TN,Tamil Nadu,24156,2013,1,1,1,0.40625,1,1,1,1,0.40625,lt075
+TN,Tamil Nadu,24157,2013,2,0.96875,1,0.40625,1,1,1,0.96875,0.40625,lt075
+TN,Tamil Nadu,24158,2013,3,1,1,0.375,1,1,1,1,0.375,lt075
+TN,Tamil Nadu,24159,2013,4,0.96875,1,1,1,1,1,0.96875,0.96875,ge090
+TN,Tamil Nadu,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24161,2013,6,1,1,1,1,1,1,0.96875,0.96875,ge090
+TN,Tamil Nadu,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24171,2014,4,1,1,0.96875,0.96875,0.96875,1,1,0.96875,ge090
+TN,Tamil Nadu,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+TN,Tamil Nadu,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24148,2012,5,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24150,2012,7,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24152,2012,9,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24153,2012,10,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24155,2012,12,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24170,2014,3,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+TR,Tripura,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24147,2012,4,0.373333,0.96,0.946667,0.92,0.933333,0.866667,0.866667,0.373333,lt075
+UP,Uttar Pradesh,24148,2012,5,0.373333,0.96,0.946667,0.92,0.906667,0.893333,0.88,0.373333,lt075
+UP,Uttar Pradesh,24149,2012,6,0.373333,0.96,0.96,0.96,0.933333,0.853333,0.88,0.373333,lt075
+UP,Uttar Pradesh,24150,2012,7,0.373333,0.96,0.96,0.96,0.92,0.906667,0.906667,0.373333,lt075
+UP,Uttar Pradesh,24151,2012,8,0.333333,0.96,0.933333,0.92,0.906667,0.88,0.866667,0.333333,lt075
+UP,Uttar Pradesh,24152,2012,9,0.453333,0.96,0.946667,0.933333,0.906667,0.866667,0.866667,0.453333,lt075
+UP,Uttar Pradesh,24153,2012,10,0.44,0.96,0.96,0.946667,0.92,0.92,0.88,0.44,lt075
+UP,Uttar Pradesh,24154,2012,11,0.493333,0.96,0.96,0.96,0.92,0.893333,0.933333,0.493333,lt075
+UP,Uttar Pradesh,24155,2012,12,0.493333,0.96,0.946667,0.946667,0.92,0.92,0.893333,0.493333,lt075
+UP,Uttar Pradesh,24156,2013,1,0.48,0.96,0.946667,0.946667,0.92,0.933333,0.92,0.48,lt075
+UP,Uttar Pradesh,24157,2013,2,0.56,0.946667,0.946667,0.946667,0.893333,0.893333,0.92,0.56,lt075
+UP,Uttar Pradesh,24158,2013,3,0.573333,0.96,0.96,0.96,0.933333,0.92,0.906667,0.573333,lt075
+UP,Uttar Pradesh,24159,2013,4,0.56,1,1,1,1,0.986667,0.973333,0.56,lt075
+UP,Uttar Pradesh,24160,2013,5,0.613333,1,1,0.973333,1,0.96,0.96,0.613333,lt075
+UP,Uttar Pradesh,24161,2013,6,0.666667,1,1,1,1,0.96,0.973333,0.666667,lt075
+UP,Uttar Pradesh,24162,2013,7,0.853333,1,1,1,0.986667,0.986667,0.973333,0.853333,075_090
+UP,Uttar Pradesh,24163,2013,8,0.906667,0.986667,1,1,0.986667,0.986667,0.986667,0.906667,ge090
+UP,Uttar Pradesh,24164,2013,9,0.853333,1,1,1,0.986667,0.986667,0.986667,0.853333,075_090
+UP,Uttar Pradesh,24165,2013,10,0.853333,1,1,1,1,0.986667,0.986667,0.853333,075_090
+UP,Uttar Pradesh,24166,2013,11,0.88,1,1,1,1,1,1,0.88,075_090
+UP,Uttar Pradesh,24167,2013,12,0.906667,1,1,1,1,0.986667,1,0.906667,ge090
+UP,Uttar Pradesh,24168,2014,1,0.906667,1,1,1,1,0.986667,1,0.906667,ge090
+UP,Uttar Pradesh,24169,2014,2,0.906667,1,1,1,1,0.986667,1,0.906667,ge090
+UP,Uttar Pradesh,24170,2014,3,0.986667,1,1,1,1,1,1,0.986667,ge090
+UP,Uttar Pradesh,24171,2014,4,0.973333,1,1,1,1,1,1,0.973333,ge090
+UP,Uttar Pradesh,24172,2014,5,0.973333,1,1,1,1,1,1,0.973333,ge090
+UP,Uttar Pradesh,24173,2014,6,0.973333,1,1,1,1,1,1,0.973333,ge090
+UP,Uttar Pradesh,24174,2014,7,0.973333,1,1,1,1,1,1,0.973333,ge090
+UP,Uttar Pradesh,24175,2014,8,0.973333,1,1,1,1,1,1,0.973333,ge090
+UP,Uttar Pradesh,24176,2014,9,0.973333,1,1,1,1,1,1,0.973333,ge090
+UP,Uttar Pradesh,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24178,2014,11,0.986667,1,1,1,1,1,1,0.986667,ge090
+UP,Uttar Pradesh,24179,2014,12,0.986667,1,1,1,1,1,1,0.986667,ge090
+UP,Uttar Pradesh,24180,2015,1,0.986667,1,1,1,1,1,1,0.986667,ge090
+UP,Uttar Pradesh,24181,2015,2,0.973333,1,1,1,1,1,1,0.973333,ge090
+UP,Uttar Pradesh,24182,2015,3,0.986667,1,1,1,1,1,1,0.986667,ge090
+UP,Uttar Pradesh,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24184,2015,5,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24187,2015,8,0.986667,1,1,1,1,1,1,0.986667,ge090
+UP,Uttar Pradesh,24188,2015,9,0.986667,1,1,1,1,1,1,0.986667,ge090
+UP,Uttar Pradesh,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24195,2016,4,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24207,2017,4,0.973333,1,1,1,1,1,1,0.973333,ge090
+UP,Uttar Pradesh,24208,2017,5,0.986667,1,1,1,1,1,1,0.986667,ge090
+UP,Uttar Pradesh,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24217,2018,2,0.986667,1,1,1,1,1,1,0.986667,ge090
+UP,Uttar Pradesh,24218,2018,3,0.986667,1,1,1,1,1,1,0.986667,ge090
+UP,Uttar Pradesh,24219,2018,4,0.986667,1,1,1,1,1,1,0.986667,ge090
+UP,Uttar Pradesh,24220,2018,5,0.986667,1,1,1,1,1,1,0.986667,ge090
+UP,Uttar Pradesh,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24227,2018,12,0.986667,1,1,1,1,1,1,0.986667,ge090
+UP,Uttar Pradesh,24228,2019,1,0.986667,1,1,0.986667,0.986667,1,1,0.986667,ge090
+UP,Uttar Pradesh,24229,2019,2,0.986667,1,1,1,1,1,1,0.986667,ge090
+UP,Uttar Pradesh,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+UP,Uttar Pradesh,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24147,2012,4,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24148,2012,5,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24149,2012,6,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24150,2012,7,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24151,2012,8,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24152,2012,9,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24153,2012,10,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24154,2012,11,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24155,2012,12,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24156,2013,1,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24157,2013,2,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24158,2013,3,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24159,2013,4,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24160,2013,5,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24161,2013,6,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24162,2013,7,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24163,2013,8,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24164,2013,9,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24165,2013,10,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24166,2013,11,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24167,2013,12,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24168,2014,1,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24169,2014,2,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24170,2014,3,0.923077,1,1,1,1,1,1,0.923077,ge090
+UK,Uttarakhand,24171,2014,4,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24172,2014,5,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24173,2014,6,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24174,2014,7,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24175,2014,8,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24176,2014,9,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24177,2014,10,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24178,2014,11,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24179,2014,12,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24180,2015,1,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24181,2015,2,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24182,2015,3,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24183,2015,4,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24184,2015,5,0.923077,1,1,1,1,1,1,0.923077,ge090
+UK,Uttarakhand,24185,2015,6,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24186,2015,7,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24187,2015,8,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24188,2015,9,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24189,2015,10,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24190,2015,11,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24191,2015,12,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24192,2016,1,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24193,2016,2,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24194,2016,3,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24195,2016,4,0.923077,1,1,1,1,1,1,0.923077,ge090
+UK,Uttarakhand,24196,2016,5,0.923077,1,1,1,1,1,1,0.923077,ge090
+UK,Uttarakhand,24197,2016,6,0.923077,1,1,1,1,1,1,0.923077,ge090
+UK,Uttarakhand,24198,2016,7,0.923077,1,1,1,1,1,1,0.923077,ge090
+UK,Uttarakhand,24199,2016,8,0.923077,1,1,1,1,1,1,0.923077,ge090
+UK,Uttarakhand,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24204,2017,1,0.923077,1,1,1,1,1,1,0.923077,ge090
+UK,Uttarakhand,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24212,2017,9,1,1,1,0.923077,1,1,1,1,ge090
+UK,Uttarakhand,24213,2017,10,1,1,1,0.923077,0.923077,1,1,1,ge090
+UK,Uttarakhand,24214,2017,11,1,1,1,0.923077,0.923077,1,1,1,ge090
+UK,Uttarakhand,24215,2017,12,1,1,1,0.846154,0.923077,1,1,1,ge090
+UK,Uttarakhand,24216,2018,1,1,1,1,0.846154,0.846154,1,1,1,ge090
+UK,Uttarakhand,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+UK,Uttarakhand,24242,2020,3,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24147,2012,4,1,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24148,2012,5,1,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24149,2012,6,1,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24150,2012,7,1,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24151,2012,8,1,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24152,2012,9,1,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24153,2012,10,1,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24154,2012,11,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24155,2012,12,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24156,2013,1,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24157,2013,2,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24158,2013,3,1,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24159,2013,4,1,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24160,2013,5,1,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24161,2013,6,1,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24162,2013,7,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24163,2013,8,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24164,2013,9,1,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24165,2013,10,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24166,2013,11,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24167,2013,12,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24168,2014,1,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24169,2014,2,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24170,2014,3,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24171,2014,4,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24172,2014,5,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24173,2014,6,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24174,2014,7,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24175,2014,8,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24176,2014,9,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24177,2014,10,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24178,2014,11,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24179,2014,12,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24180,2015,1,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24181,2015,2,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24182,2015,3,0.947368,1,1,1,1,1,0.947368,0.947368,ge090
+WB,West Bengal,24183,2015,4,0.95,1,1,1,1,1,0.95,0.95,ge090
+WB,West Bengal,24184,2015,5,0.95,1,1,1,1,1,0.95,0.95,ge090
+WB,West Bengal,24185,2015,6,0.95,1,1,1,1,1,0.95,0.95,ge090
+WB,West Bengal,24186,2015,7,0.95,1,1,1,1,1,0.95,0.95,ge090
+WB,West Bengal,24187,2015,8,0.95,1,1,1,1,1,0.95,0.95,ge090
+WB,West Bengal,24188,2015,9,0.95,1,1,1,1,1,0.95,0.95,ge090
+WB,West Bengal,24189,2015,10,0.95,1,1,1,1,1,0.95,0.95,ge090
+WB,West Bengal,24190,2015,11,0.95,1,1,1,1,1,0.95,0.95,ge090
+WB,West Bengal,24191,2015,12,0.95,1,1,1,1,1,0.95,0.95,ge090
+WB,West Bengal,24192,2016,1,0.95,1,1,1,1,1,0.95,0.95,ge090
+WB,West Bengal,24193,2016,2,1,1,1,1,1,1,0.95,0.95,ge090
+WB,West Bengal,24194,2016,3,0.95,1,1,1,1,1,0.95,0.95,ge090
+WB,West Bengal,24195,2016,4,1,1,1,1,1,1,0.956522,0.956522,ge090
+WB,West Bengal,24196,2016,5,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24197,2016,6,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24198,2016,7,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24199,2016,8,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24200,2016,9,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24201,2016,10,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24202,2016,11,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24203,2016,12,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24204,2017,1,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24205,2017,2,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24206,2017,3,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24207,2017,4,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24208,2017,5,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24209,2017,6,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24210,2017,7,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24211,2017,8,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24212,2017,9,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24213,2017,10,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24214,2017,11,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24215,2017,12,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24216,2018,1,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24217,2018,2,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24218,2018,3,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24219,2018,4,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24220,2018,5,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24221,2018,6,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24222,2018,7,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24223,2018,8,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24224,2018,9,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24225,2018,10,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24226,2018,11,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24227,2018,12,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24228,2019,1,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24229,2019,2,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24230,2019,3,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24231,2019,4,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24232,2019,5,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24233,2019,6,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24234,2019,7,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24235,2019,8,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24236,2019,9,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24237,2019,10,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24238,2019,11,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24239,2019,12,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24240,2020,1,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24241,2020,2,1,1,1,1,1,1,1,1,ge090
+WB,West Bengal,24242,2020,3,1,1,1,1,1,1,1,1,ge090
