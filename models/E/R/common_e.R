@@ -29,6 +29,26 @@ elog <- function(..., file = "e_run.log") {
   invisible(msg)
 }
 
+# Release mode (the public code-and-aggregates release, final-review finding 3): the release is one root commit (the
+# archived zip has no .git at all), so the guards that read the author's working-repository history (contract and
+# power design committed before the primary fits, primary estimates committed after Amendment 3, FY2020-21 status
+# committed at the sync point, git state in provenance.csv) cannot be evaluated there. They are skipped, each with a
+# logged notice, when E_RELEASE_MODE=1 or when the release marker file (written by tools/export_release_e.py) is at
+# the repository root; E_RELEASE_MODE=0 forces the private behaviour. Nothing else changes.
+E_RELEASE_MARKER <- file.path(REPO_ROOT, ".elnino-hmis-release")
+e_release_mode <- function(marker = E_RELEASE_MARKER) {
+  env <- Sys.getenv("E_RELEASE_MODE", "")
+  if (identical(env, "1")) return(TRUE)
+  if (identical(env, "0")) return(FALSE)
+  file.exists(marker)
+}
+# Logged notice for a skipped history guard; returns the notice (the guards' callers log their return value).
+e_release_skip <- function(what) {
+  msg <- sprintf("release mode: %s skipped (it reads the version-control history of the author's working repository, which the public release does not contain)", what)
+  elog(msg)
+  msg
+}
+
 # The HMIS model table (pipeline/hmis/model_table.py; columns documented there). window "primary": the 95 months
 # April 2012 to February 2020 (in_primary == 1); "fy2021": every row, April 2012 to March 2021 (March 2020 and
 # FY2020-21 enter only the fy2021 sensitivity). Missing values stay NA. Factors: unit_id; moy (levels 1..12);

@@ -1,4 +1,4 @@
-# Table 2. Panel description, primary window (April 2012 to February 2020)
+# Working table B (not numbered in the paper; the manuscript's Table 1 is the published panel table). Panel description, primary window (April 2012 to February 2020)
 
 Units: 34. Months: 95. State-months: 3,230. HMIS status dates (all values provisional): 19 September 2015 to 6 November 2020.
 

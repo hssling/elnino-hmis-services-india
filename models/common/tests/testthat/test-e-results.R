@@ -304,39 +304,93 @@ test_that("resolve_e_step never fits a finished or running step under --use-cach
   }
   dead <- function(p) FALSE; alive <- function(p) TRUE
   # nothing written yet: pending with --allow-pending, an error without
-  p <- resolve_e_step(def, mode = "use_cache", allow_pending = TRUE, alive = dead, run = run)
+  p <- resolve_e_step(def, mode = "use_cache", allow_pending = TRUE, alive = dead, run = run, release = FALSE)
   expect_identical(p$status, "pending"); expect_identical(ran, 0L)
-  expect_error(resolve_e_step(def, mode = "use_cache", allow_pending = FALSE, alive = dead, run = run), "not finished")
+  expect_error(resolve_e_step(def, mode = "use_cache", allow_pending = FALSE, alive = dead, run = run, release = FALSE), "not finished")
   # default mode runs a step with no output
-  r <- resolve_e_step(def, mode = "default", allow_pending = FALSE, alive = dead, run = run)
+  r <- resolve_e_step(def, mode = "default", allow_pending = FALSE, alive = dead, run = run, release = FALSE)
   expect_identical(ran, 1L); expect_identical(r$status, "cached"); expect_named(r$entries, "E.x")
   # finished: reused in every mode but refit; never refitted under --use-cache or default
   for (m in c("use_cache", "default")) {
-    r <- resolve_e_step(def, mode = m, allow_pending = FALSE, alive = dead, run = run)
+    r <- resolve_e_step(def, mode = m, allow_pending = FALSE, alive = dead, run = run, release = FALSE)
     expect_identical(r$status, "cached")
   }
   expect_identical(ran, 1L)
   expect_match(r$outputs$sha256_lf, "^[0-9a-f]{64}$")
   # a running step is never launched and its outputs are not read
-  r <- resolve_e_step(def, mode = "use_cache", allow_pending = TRUE, alive = alive, run = run)
+  r <- resolve_e_step(def, mode = "use_cache", allow_pending = TRUE, alive = alive, run = run, release = FALSE)
   expect_identical(r$status, "pending"); expect_match(r$reason, "still running")
-  expect_error(resolve_e_step(def, mode = "refit", allow_pending = TRUE, alive = alive, run = run), "still running")
+  expect_error(resolve_e_step(def, mode = "refit", allow_pending = TRUE, alive = alive, run = run, release = FALSE), "still running")
   expect_identical(ran, 1L)
   # cache and committed output disagree: refused
   data.table::fwrite(data.table::data.table(a = 1:2, b = c(0.2, NA)), file.path(dir, "fake.csv"), eol = "\n")
-  expect_error(resolve_e_step(def, mode = "use_cache", allow_pending = TRUE, alive = dead, run = run), "differs from")
+  expect_error(resolve_e_step(def, mode = "use_cache", allow_pending = TRUE, alive = dead, run = run, release = FALSE), "differs from")
   # an output without its cache: refused, not refitted
   unlink(def$rds)
-  expect_error(resolve_e_step(def, mode = "use_cache", allow_pending = TRUE, alive = dead, run = run), "cache .* is missing")
-  expect_error(resolve_e_step(def, mode = "default", allow_pending = TRUE, alive = dead, run = run), "cache .* is missing")
+  expect_error(resolve_e_step(def, mode = "use_cache", allow_pending = TRUE, alive = dead, run = run, release = FALSE), "cache .* is missing")
+  expect_error(resolve_e_step(def, mode = "default", allow_pending = TRUE, alive = dead, run = run, release = FALSE), "cache .* is missing")
   expect_identical(ran, 1L)
   # --refit reruns
-  r <- resolve_e_step(def, mode = "refit", allow_pending = FALSE, alive = dead, run = run)
+  r <- resolve_e_step(def, mode = "refit", allow_pending = FALSE, alive = dead, run = run, release = FALSE)
   expect_identical(ran, 2L); expect_identical(r$status, "cached")
   # CRLF line ends in the committed output (git autocrlf checkout) are not a difference
   b <- readBin(file.path(dir, "fake.csv"), "raw", 1e4)
   writeBin(unlist(lapply(b, function(x) if (x == as.raw(10L)) as.raw(c(13L, 10L)) else x)), file.path(dir, "fake.csv"))
-  expect_identical(resolve_e_step(def, mode = "use_cache", allow_pending = FALSE, alive = dead, run = run)$status, "cached")
+  expect_identical(resolve_e_step(def, mode = "use_cache", allow_pending = FALSE, alive = dead, run = run, release = FALSE)$status, "cached")
+})
+
+test_that("release mode: the marker or E_RELEASE_MODE switches it on, E_RELEASE_MODE=0 off (final review, finding 3)", {
+  old <- Sys.getenv("E_RELEASE_MODE", NA)
+  on.exit(if (is.na(old)) Sys.unsetenv("E_RELEASE_MODE") else Sys.setenv(E_RELEASE_MODE = old))
+  m <- tempfile("marker")
+  Sys.unsetenv("E_RELEASE_MODE")
+  expect_false(e_release_mode(m))
+  writeLines("x", m)
+  expect_true(e_release_mode(m))
+  Sys.setenv(E_RELEASE_MODE = "0"); expect_false(e_release_mode(m))
+  Sys.setenv(E_RELEASE_MODE = "1"); expect_true(e_release_mode(tempfile("none")))
+})
+
+test_that("release mode resolves a step without its cache from the shipped outputs and results (finding 3)", {
+  dir <- tempfile("rel"); dir.create(dir)
+  tab <- data.table::data.table(a = 1:2, b = c(0.1, NA))
+  data.table::fwrite(tab, file.path(dir, "fake.csv"), eol = "\n")
+  def <- fake_def(dir)
+  def$name <- "primary"                         # a step that owns contract keys
+  sha <- .e_sha256_lf(file.path(dir, "fake.csv"))
+  prov <- file.path(dir, "provenance.csv")
+  data.table::fwrite(data.table::data.table(item = paste0("output:", .e_rel(file.path(dir, "fake.csv"))), value = sha,
+                                            note = "x"), prov)
+  ks <- WANT[e_key_step(WANT) == "primary"]
+  shipped <- stats::setNames(lapply(ks, function(k) res_entry(if (k == ks[1]) NA else 1.5, "1.50", "s", "d")), ks)
+  js <- file.path(dir, "results.json")
+  write_results(shipped, js)
+  def$out_dir <- dir
+  run <- function(def) stop("must not fit")
+  # without release mode: refused as before
+  expect_error(resolve_e_step(def, mode = "use_cache", alive = function(p) FALSE, run = run, release = FALSE),
+               "cache .* is missing")
+  r <- release_e_step(def, results_json = js, prov_csv = prov)
+  expect_identical(r$status, "release")
+  expect_setequal(names(r$entries), ks)
+  expect_true(is.na(r$entries[[ks[1]]]$value))
+  expect_identical(r$entries[[ks[2]]]$display, "1.50")
+  expect_identical(r$outputs$sha256_lf, sha)
+  # an output that differs from the recorded one is refused
+  data.table::fwrite(data.table::data.table(a = 1:2, b = c(0.2, NA)), file.path(dir, "fake.csv"), eol = "\n")
+  expect_error(release_e_step(def, results_json = js, prov_csv = prov), "differs from the file recorded")
+  # a step with a from_outputs reader recomputes its keys from the output table
+  data.table::fwrite(tab, file.path(dir, "fake.csv"), eol = "\n")
+  def$from_outputs <- function(t) list(entries = list(E.x = .fake("E.x", value = nrow(t[["fake.csv"]]))))
+  expect_identical(release_e_step(def, results_json = js, prov_csv = prov)$entries$E.x$value, 2L)
+})
+
+test_that("compare_e_results separates value/display differences from description-only ones", {
+  a <- tempfile(fileext = ".json"); b <- tempfile(fileext = ".json")
+  write_results(list(E.a = res_entry(1, "1", "s", "d1"), E.b = res_entry(NA, "n", "s", "d"), E.c = res_entry(2, "2", "s", "d")), a)
+  write_results(list(E.a = res_entry(1, "1", "s", "d2"), E.b = res_entry(NA, "n", "s", "d"), E.c = res_entry(3, "3", "s", "d")), b)
+  r <- compare_e_results(a, b)
+  expect_identical(r$n, 3L); expect_identical(r$value_display, "E.c"); expect_identical(r$description, "E.a")
 })
 
 # ---- writing: results.json, provenance.csv, determinism (F25) ------------------------------------------------------

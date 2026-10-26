@@ -1,4 +1,4 @@
-# Table 1. Indicator crosswalk and harmonised definitions
+# Working table A (not numbered in the paper; the published version is Online Resource 1, Table S1). Indicator crosswalk and harmonised definitions
 
 | Indicator | Role | HMIS items, FY2012-13 to 2016-17 | HMIS items, FY2017-18 to 2020-21 | Harmonised definition | National April/March 2017 ratio |
 |---|---|---|---|---|---|

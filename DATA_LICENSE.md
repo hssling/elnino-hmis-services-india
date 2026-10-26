@@ -9,7 +9,8 @@ This covers:
 - `papers/E/results.json`, `papers/E/traceability.csv`, `papers/E/output/`, `papers/E/figures/data/` and `papers/E/tables/` (results, aggregate tables, figure and table data);
 - `data/derived/hmis/` (the HMIS state-month panel and model table, the unit-month climate table, and the gate, break and acquisition reports);
 - `pipeline/reference/hmis_*.csv` and `pipeline/reference/state_frame.csv` (the indicator crosswalk, programme-event months, reviewed dispositions, portal file list and the state frame);
-- `data/derived/enso_monthly.csv`, `data/derived/climate_state_month.csv` and `data/derived/model/population_2001_2027.csv` (ENSO, climate and population inputs).
+- `data/derived/enso_monthly.csv`, `data/derived/climate_state_month.csv`, `data/derived/qc_month_adjustments.csv` and `data/derived/model/population_2001_2027.csv` (ENSO, climate, climate quality-control and population inputs);
+- `data/MANIFEST.csv` (the HMIS rows of the acquisition manifest: file paths, public URLs, retrieval times, SHA-256 hashes and sizes; no values).
 
 Attribution: cite the paper (see README.md) or this repository (CITATION.cff), and the original sources below.
 
@@ -27,9 +28,9 @@ CC BY 4.0 applies to the aggregation and processing in this repository. The orig
 
 | Source | Producer | Terms |
 |---|---|---|
-| Oceanic Niño Index (traditional), Relative ONI, Niño-3.4 anomaly (`data/derived/enso_monthly.csv`) | NOAA Climate Prediction Center (https://www.cpc.ncep.noaa.gov/data/indices/) | US Government public data; attribute NOAA CPC |
-| Dipole Mode Index (HadISST) | NOAA Physical Sciences Laboratory (https://psl.noaa.gov/gcos_wgsp/Timeseries/DMI/) | US Government public data; attribute NOAA PSL; HadISST is Met Office Hadley Centre data |
-| Gridded daily rainfall (0.25°) and maximum temperature (1°), as state and unit aggregates (`data/derived/climate_state_month.csv`, `data/derived/hmis/climate_unit_month.csv`) | India Meteorological Department (IMD), Pune | IMD gridded-data terms; raw grids are not redistributed. Cite Pai DS et al. 2014, MAUSAM 65(1):1–18 and Srivastava AK et al. 2009, Atmos Sci Lett 10:249–254 |
-| Population projections 2011–2036 by state (`data/derived/model/population_2001_2027.csv`, interpolated) and Census 2011 populations | National Commission on Population, Ministry of Health and Family Welfare (Technical Group on Population Projections, 2019); Office of the Registrar General and Census Commissioner, India | Government of India publications; attribute the source |
+| Oceanic Niño Index (traditional), Relative ONI, Niño-3.4 anomaly (`data/derived/enso_monthly.csv`) | NOAA Climate Prediction Center (https://www.cpc.ncep.noaa.gov/data/indices/) | US Government work, in the public domain in the United States; attribute NOAA CPC |
+| Dipole Mode Index (HadISST) | NOAA Physical Sciences Laboratory (https://psl.noaa.gov/gcos_wgsp/Timeseries/DMI/) | US Government work, in the public domain in the United States; attribute NOAA PSL; HadISST is Met Office Hadley Centre data |
+| Gridded daily rainfall (0.25°) and maximum temperature (1°), as state and unit aggregates (`data/derived/climate_state_month.csv`, `data/derived/qc_month_adjustments.csv`, `data/derived/hmis/climate_unit_month.csv`) | India Meteorological Department (IMD), Pune | State-level (and national) aggregates are redistributed with source citations, as in the author's companion releases (confirmed by the author, 26 October 2026); the raw grids are not redistributed. Cite Pai DS et al. 2014, MAUSAM 65(1):1–18 and Srivastava AK et al. 2009, Atmos Sci Lett 10:249–254 |
+| Population projections 2011–2036 by state (`data/derived/model/population_2001_2027.csv`, interpolated) and Census 2011 populations | National Commission on Population, Ministry of Health and Family Welfare (Technical Group on Population Projections, 2019); Office of the Registrar General and Census Commissioner, India | Government of India publications; the state-level aggregates are redistributed with source citations, as in the author's companion releases (confirmed by the author, 26 October 2026); cite the Technical Group report and the Census tables |
 | State monsoon sensitivity to ENSO (`papers/D/output/risk_index.csv`, column `hazard_rain`) | The author's companion synthesis (https://doi.org/10.5281/zenodo.23632647) | CC BY 4.0 |
 | Unit identifiers (`gid1_members` in `pipeline/reference/state_frame.csv`) | GADM 4.1 (https://gadm.org) | GADM licence (free for academic and other non-commercial use; redistribution or commercial use needs GADM's permission, https://gadm.org/license.html); no boundaries are included |

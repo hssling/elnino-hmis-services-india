@@ -69,19 +69,8 @@ secondary_contract_keys <- function(path = file.path(PAPER_E, "results_keys.md")
       grepl("^E\\.l\\..*\\.cum02$|^E\\.l\\..*\\.tmax\\.irr$", k)]
 }
 
-# Amendment 3 / F61 ordering (review finding 7; the Task 10 guard): primary_estimates.csv is tracked, has no
-# uncommitted change, and was committed in a commit after 257aacc. git(args) as .git_repo() (02_primary.R).
-assert_primary_post_f61_sec <- function(path = "papers/E/output/primary_estimates.csv", after = "257aacc",
-                                        git = .git_repo) {
-  if (!length(git(c("ls-files", "--", path)))) stop("run_secondary: ", path, " is not committed", call. = FALSE)
-  if (length(git(c("status", "--porcelain", "--", path))))
-    stop("run_secondary: ", path, " has uncommitted changes", call. = FALSE)
-  later <- git(c("log", shQuote("--format=%h %ci %s"), paste0(after, "..HEAD"), "--", path))
-  if (!length(later))
-    stop("run_secondary: ", path, " was not committed after ", after, " (contract Amendment 3, F61): rerun ",
-         "02_primary.R with the optimiser limits and commit its estimates first", call. = FALSE)
-  sprintf("%s committed after %s (last: %s)", path, after, substr(later[1], 1, 60))
-}
+# Amendment 3 / F61 ordering: assert_primary_post_f61(caller = "run_secondary") (02_primary.R; unified with the
+# Task 10 guard at the final review).
 
 # ---- tasks -----------------------------------------------------------------------------------------------------------
 
@@ -347,7 +336,8 @@ run_secondary <- function(cores = NULL, B = B_T, primary_csv = file.path(E_OUT, 
                           contract = file.path(PAPER_E, "results_keys.md"), fy2021 = NULL, write = TRUE, d = NULL,
                           d_fy = NULL, fit_fun = e_glmmTMB_fit, boot_fun = block_bootstrap_irr,
                           log_file = file.path(E_LOGS, "secondary.log"), ckpt_dir = SEC_CKPT_DIR, resume = TRUE,
-                          check_primary = assert_primary_post_f61_sec, bfgs_outcomes = BFGS_OUTCOMES) {
+                          check_primary = function() assert_primary_post_f61(caller = "run_secondary"),
+                          bfgs_outcomes = BFGS_OUTCOMES) {
   lg <- function(...) elog(..., file = log_file)
   if (!file.exists(primary_csv))
     stop("run_secondary: ", primary_csv, " does not exist: run E/02_primary.R first", call. = FALSE)

@@ -20,8 +20,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-This licence covers the code in this repository (pipeline/, models/, tests/
-and any Python or R script under papers/). The results, aggregate data, figure
-data, review files, atlas and brief content are licensed separately under CC BY 4.0; see
-DATA_LICENSE.md. No NFHS microdata are included, and third-party material keeps
-its own terms.
+This licence covers the code in this repository (pipeline/, models/, tests/,
+tools/ and any Python or R script under papers/). The results, aggregate data,
+derived tables, figure data and table data are licensed separately under
+CC BY 4.0; see DATA_LICENSE.md. No record-level or district-level data are
+included, and third-party material keeps its own terms.

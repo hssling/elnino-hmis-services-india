@@ -304,20 +304,30 @@ test_that("fy2021 case runs through March 2021 with both COVID indicators, or re
   expect_identical(no$skip, "not estimable (FY2020-21 not acquired (status running))")
 })
 
+test_that("fy2021 case reads not estimable when the model table has no FY2020-21 rows (public release)", {
+  d <- sec_panel()
+  dfy <- sec_panel(n_months = 108)
+  dfy[, fy := "2019-20"]
+  cs <- sens_case("fy2021", d, "anc_reg", d_fy2021 = dfy, fy2021 = fy_ok)
+  expect_match(cs$skip, "not estimable (FY2020-21 rows not in the model table", fixed = TRUE)
+  dfy[ym >= 2020L * 12L + 3L, fy := "2020-21"]
+  expect_true(is.na(sens_case("fy2021", d, "anc_reg", d_fy2021 = dfy, fy2021 = fy_ok)$skip))
+})
+
 test_that("fy2021_ready reads the status file and requires it committed and clean", {
   p <- tempfile(fileext = ".json")
   writeLines('{\n "status": "acquired",\n "n_files": 456\n}', p)
   clean <- function(args) if (args[1] == "ls-files") p else character()
-  expect_true(fy2021_ready(p, git = clean)$ok)
+  expect_true(fy2021_ready(p, git = clean, release = FALSE)$ok)
   dirty <- function(args) if (args[1] == "ls-files") p else paste("M", p)
-  expect_match(fy2021_ready(p, git = dirty)$reason, "uncommitted")
+  expect_match(fy2021_ready(p, git = dirty, release = FALSE)$reason, "uncommitted")
   untracked <- function(args) character()
-  expect_match(fy2021_ready(p, git = untracked)$reason, "not committed")
+  expect_match(fy2021_ready(p, git = untracked, release = FALSE)$reason, "not committed")
   writeLines('{"status": "running"}', p)
-  r <- fy2021_ready(p, git = clean)
+  r <- fy2021_ready(p, git = clean, release = FALSE)
   expect_false(r$ok)
   expect_identical(r$reason, "not acquired (status running)")
-  expect_identical(fy2021_ready(tempfile(), git = clean)$reason, "status file missing")
+  expect_identical(fy2021_ready(tempfile(), git = clean, release = FALSE)$reason, "status file missing")
 })
 
 test_that("model_l_tmax never enters tmax_anom with heatwave_days", {
@@ -446,12 +456,20 @@ test_that("task checkpoints round-trip and are ignored when the fingerprint or t
 
 test_that("run_secondary refuses unless primary_estimates.csv is committed after Amendment 3 (257aacc)", {
   ok <- function(args) if (args[1] == "ls-files") "p" else if (args[1] == "log") "abc123 2026-10-25 results" else character()
-  expect_match(assert_primary_post_f61_sec(git = ok), "committed after 257aacc")
-  expect_error(assert_primary_post_f61_sec(git = function(args) character()), "is not committed")
+  expect_match(assert_primary_post_f61(git = ok, caller = "run_secondary", release = FALSE), "committed after 257aacc")
+  expect_error(assert_primary_post_f61(git = function(args) character(), caller = "run_secondary", release = FALSE), "is not committed")
   dirty <- function(args) if (args[1] == "ls-files") "p" else if (args[1] == "status") " M p" else character()
-  expect_error(assert_primary_post_f61_sec(git = dirty), "uncommitted")
+  expect_error(assert_primary_post_f61(git = dirty, caller = "run_secondary", release = FALSE), "uncommitted")
   old <- function(args) if (args[1] == "ls-files") "p" else character()
-  expect_error(assert_primary_post_f61_sec(git = old), "not committed after 257aacc")
+  expect_error(assert_primary_post_f61(git = old, caller = "run_secondary", release = FALSE), "not committed after 257aacc")
+  # release mode (final review, finding 3): the history guards are skipped with a logged notice, git is never called
+  never <- function(args) stop("git called")
+  expect_match(assert_primary_post_f61(git = never, caller = "run_secondary", release = TRUE), "^release mode: run_secondary")
+  expect_match(assert_power_design_fixed(git = never, release = TRUE), "^release mode:")
+  p <- tempfile(fileext = ".json"); writeLines('{"status": "acquired"}', p)
+  expect_true(fy2021_ready(p, git = never, release = TRUE)$ok)
+  writeLines('{"status": "running"}', p)
+  expect_false(fy2021_ready(p, git = never, release = TRUE)$ok)
   tmp <- tempfile("g_"); dir.create(tmp)
   prim <- file.path(tmp, "primary_estimates.csv")
   data.table::fwrite(data.table::data.table(outcome = INDS, model = "T", term = "en_t", irr = 1, time_re = "ar1",

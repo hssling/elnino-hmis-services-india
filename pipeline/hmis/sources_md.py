@@ -6,8 +6,9 @@ sources_md(out) writes one row per data/raw/hmis entry of data/MANIFEST.csv (pat
 licence) and one row per external input of the HMIS model table (the ENSO index files, the IMD gridded rainfall and
 Tmax files, the population sources, the GADM boundaries, the companion hazard index and the programme-event sources),
 with the verbatim GODL-India attribution (spec §3; plan Global Constraints). Portal-only FY2020-21 files are cited to
-the portal with a note that it states no explicit licence. Licences marked "to be confirmed by author" repeat
-data/README.md, which records that no licence was independently verified by the pipeline. No data value is written.
+the portal with a note that it states no explicit licence. The external licences state each producer's terms; the
+redistribution of IMD-derived and Census/RGI (NCP) projection-derived state-level aggregates with source citations was
+confirmed by the author on 2026-10-26 (as in the companion releases). No data value is written.
 A data/raw/hmis folder without a licence rule is an error (a new folder needs a rule here first).
 
 A MANIFEST URL of the form "local:<path>" (a file copied from a local folder) is never printed: the row shows its
@@ -41,8 +42,11 @@ HMIS_LICENCE = {
     "programme_events": "Press Information Bureau, Government of India, press release (cited for programme dates)",
     "srs": "Reserve Bank of India web page (cited; SRS birth rates not retrieved, ruling F23)",
 }
-NOAA = "NOAA (U.S. Government data); terms to be confirmed by author"
-IMD = "IMD Pune; terms to be confirmed by author"
+NOAA = "NOAA (U.S. Government work, public domain in the United States); attribute NOAA CPC or PSL"
+IMD = ("IMD Pune gridded data; raw grids not redistributed; state-level aggregates redistributed with source "
+       "citations (confirmed by the author, 2026-10-26)")
+GOI_POP = ("Government of India publication; state-level aggregates redistributed with source citations (confirmed by "
+           "the author, 2026-10-26)")
 # External inputs with a MANIFEST row: (path or prefix, what, licence).
 EXTERNAL = [
     ("data/raw/enso/oni.ascii.txt", "ONI (traditional), NOAA CPC", NOAA),
@@ -52,11 +56,12 @@ EXTERNAL = [
     ("data/raw/imd/rain_", "IMD gridded daily rainfall, 0.25 deg (cite Pai et al. 2014, MAUSAM 65:1-18)", IMD),
     ("data/raw/imd/tmax_", "IMD gridded daily Tmax, 1 deg (cite Srivastava et al. 2009, Atmos Sci Lett 10:249-254)", IMD),
     ("data/raw/outcomes/census_a02/", "Census of India 2001 and 2011, Table A-02 (population on 1 March)",
-     "Government of India publication; terms to be confirmed by author"),
+     GOI_POP),
     ("data/raw/outcomes/rgi_proj2020/", "RGI/NCP population projections 2011-2036 (Table 8, 1 March)",
-     "Government of India publication; terms to be confirmed by author"),
+     GOI_POP),
     ("data/external/gadm41_IND.gpkg", "GADM 4.1 India boundaries (state areas for pooled units; not redistributed)",
-     "GADM licence: academic and other non-commercial use (https://gadm.org/license.html)"),
+     "GADM licence: free for academic and other non-commercial use; redistribution or commercial use needs GADM's "
+     "permission (https://gadm.org/license.html); boundaries not redistributed"),
 ]
 # Public sources of inputs whose MANIFEST url is "local:<path>" (copied from a local folder; data/README.md).
 PUBLIC_SOURCE = {

@@ -413,11 +413,11 @@ test_that("run_forecast needs primary_estimates.csv committed after the F61 cont
     }
     list(git = f, calls = function() calls)
   }
-  expect_error(assert_primary_post_f61(git = fake_git(tracked = FALSE)$git), "not committed")
-  expect_error(assert_primary_post_f61(git = fake_git(dirty = TRUE)$git), "uncommitted changes")
-  expect_error(assert_primary_post_f61(git = fake_git(later = FALSE)$git), "not committed after 257aacc")
+  expect_error(assert_primary_post_f61(git = fake_git(tracked = FALSE)$git, release = FALSE), "not committed")
+  expect_error(assert_primary_post_f61(git = fake_git(dirty = TRUE)$git, release = FALSE), "uncommitted changes")
+  expect_error(assert_primary_post_f61(git = fake_git(later = FALSE)$git, release = FALSE), "not committed after 257aacc")
   g <- fake_git()
-  expect_match(assert_primary_post_f61(git = g$git), "committed after 257aacc (last: abc1234", fixed = TRUE)
+  expect_match(assert_primary_post_f61(git = g$git, release = FALSE), "committed after 257aacc (last: abc1234", fixed = TRUE)
   lg <- Filter(function(a) a[1] == "log", g$calls())[[1]]
   expect_true("257aacc..HEAD" %in% lg)
   expect_identical(tail(lg, 1), "papers/E/output/primary_estimates.csv")

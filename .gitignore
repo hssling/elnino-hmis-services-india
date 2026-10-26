@@ -1,7 +1,6 @@
 # Raw downloads, controlled data and user-supplied inputs (never commit)
 data/raw/
 data/external/
-data/MANIFEST.csv
 *.parquet
 *.zip
 *.dta

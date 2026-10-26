@@ -67,14 +67,18 @@ ns2_term <- function(t_c) {
 
 # Is FY2020-21 final at the Task 9 sync point (F3)? The status file exists, reads "acquired", and is committed with
 # no uncommitted change. Returns list(ok, reason, status); reason completes "FY2020-21 <reason>".
-fy2021_ready <- function(path = FY2021_STATUS_JSON, git = .sec_git) {
+fy2021_ready <- function(path = FY2021_STATUS_JSON, git = .sec_git, release = e_release_mode()) {
   if (!file.exists(path)) return(list(ok = FALSE, reason = "status file missing", status = NA_character_))
   txt <- paste(readLines(path, warn = FALSE), collapse = "\n")
   m <- regmatches(txt, regexec('"status"\\s*:\\s*"([^"]*)"', txt))[[1]]
   status <- if (length(m) == 2L) m[2] else NA_character_
   if (!identical(status, "acquired"))
     return(list(ok = FALSE, reason = sprintf("not acquired (status %s)", status), status = status))
-  rel <- sub(paste0("^", gsub("([.\\\\+*?^$(){}|\\[\\]])", "\\\\\\1", normalizePath(REPO_ROOT, winslash = "/")), "/"),
+  if (isTRUE(release)) {                       # release mode: the committed-and-clean part reads the private history
+    e_release_skip("fy2021_ready(): the committed-and-clean check of the FY2020-21 status file")
+    return(list(ok = TRUE, reason = NA_character_, status = status))
+  }
+  rel <-sub(paste0("^", gsub("([.\\\\+*?^$(){}|\\[\\]])", "\\\\\\1", normalizePath(REPO_ROOT, winslash = "/")), "/"),
              "", normalizePath(path, winslash = "/", mustWork = FALSE))
   if (!length(git(c("ls-files", "--", rel))))
     return(list(ok = FALSE, reason = "status file not committed", status = status))
@@ -99,8 +103,13 @@ sens_case <- function(id, d, ind, d_fy2021 = NULL, fy2021 = fy2021_ready()) {
         skip <- not_estimable(paste("FY2020-21", fy2021$reason))
       } else {
         if (is.null(d_fy2021)) d_fy2021 <- read_hmis_model("fy2021")
-        data <- d_fy2021[ym <= FY2021_END_YM]
-        spec <- t_spec(ind, extra = c("covid_mar2020", "covid_fy2021"))
+        if ("fy" %in% names(d_fy2021) && !any(as.character(d_fy2021$fy) == "2020-21")) {
+          # the public release ships no FY2020-21 rows (final review, finding 2): never fit the case without them
+          skip <- not_estimable("FY2020-21 rows not in the model table (the public release omits them; rebuild them from the portal)")
+        } else {
+          data <- d_fy2021[ym <= FY2021_END_YM]
+          spec <- t_spec(ind, extra = c("covid_mar2020", "covid_fy2021"))
+        }
       }
     },
     comp075 = spec <- .with_outcome(spec, paste0(ind, "_c75")),

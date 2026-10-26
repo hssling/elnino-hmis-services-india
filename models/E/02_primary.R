@@ -447,7 +447,9 @@ primary_entries <- function(tab, holm, units, script = PRIMARY_SCRIPT, B = B_T) 
                                      call. = FALSE)
   out
 }
-assert_power_design_fixed <- function(paths = c("papers/E/results_keys.md", "models/E/01_power.R"), git = .git_repo) {
+assert_power_design_fixed <- function(paths = c("papers/E/results_keys.md", "models/E/01_power.R"), git = .git_repo,
+                                      release = e_release_mode()) {
+  if (isTRUE(release)) return(e_release_skip("the power-design check (contract and 01_power.R committed and clean)"))
   for (p in paths) {
     if (!length(git(c("ls-files", "--", p)))) stop("run_primary: ", p, " is not committed", call. = FALSE)
     if (length(git(c("status", "--porcelain", "--", p))))
@@ -455,6 +457,26 @@ assert_power_design_fixed <- function(paths = c("papers/E/results_keys.md", "mod
   }
   log1 <- git(c("log", "-1", shQuote("--format=%h %ci %s"), "--", paths))
   sprintf("%s committed (last: %s)", paste(paths, collapse = " and "), if (length(log1)) log1[1] else "?")
+}
+
+# Amendment 3 / F61 ordering, the one guard of 04_secondary.R and 05_forecast.R (formerly duplicated there as
+# assert_primary_post_f61_sec and assert_primary_post_f61; unified at the final review, numerically neutral): the
+# primary estimates used must come from the rerun with the raised optimiser limits, i.e. `path` is tracked, has no
+# uncommitted change, and was committed in a commit after `after` (257aacc, the Amendment 3 contract commit).
+# git(args) as .git_repo(), injectable for tests; caller names the step in the messages. Skipped in release mode.
+# Returns a one-line note with the last such commit.
+assert_primary_post_f61 <- function(path = "papers/E/output/primary_estimates.csv", after = "257aacc", git = .git_repo,
+                                    caller = "run_forecast", release = e_release_mode()) {
+  if (isTRUE(release))
+    return(e_release_skip(sprintf("%s: the Amendment 3 ordering check (%s committed after %s)", caller, path, after)))
+  if (!length(git(c("ls-files", "--", path)))) stop(caller, ": ", path, " is not committed", call. = FALSE)
+  if (length(git(c("status", "--porcelain", "--", path))))
+    stop(caller, ": ", path, " has uncommitted changes", call. = FALSE)
+  later <- git(c("log", shQuote("--format=%h %ci %s"), paste0(after, "..HEAD"), "--", path))
+  if (!length(later))
+    stop(caller, ": ", path, " was not committed after ", after, " (contract Amendment 3, F61): rerun 02_primary.R ",
+         "with the optimiser limits and commit its estimates first", call. = FALSE)
+  sprintf("%s committed after %s (last: %s)", path, after, substr(later[1], 1, 60))
 }
 
 run_primary <- function(cores = NULL, power_csv = file.path(E_OUT, "power.csv"),

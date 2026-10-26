@@ -166,9 +166,10 @@ assert_contract_counts <- function(path = E_CONTRACT) {
 }
 
 # Git state of a repository path: "committed, clean", "uncommitted changes", "untracked" or "outside the repository".
-.e_git_state <- function(path) {
+.e_git_state <- function(path, release = e_release_mode()) {
   rel <- .e_rel(path)
   if (grepl("^([A-Za-z]:)?/", rel)) return("outside the repository")
+  if (isTRUE(release)) return("release copy (git state not checked)")
   if (!length(.e_git(c("ls-files", "--", rel)))) return("untracked")
   if (length(.e_git(c("status", "--porcelain", "--", rel)))) return("uncommitted changes")
   "committed, clean"
@@ -397,7 +398,10 @@ e_step_defs <- function(out_dir = E_OUT, cache = E_CACHE, logs = E_LOGS) {
   list(
     power = list(name = "power", script = E_STEP_SCRIPTS[["power"]], rds = file.path(cache, "power.rds"),
                  progress = file.path(logs, "power_progress.txt"), out_dir = out_dir,
-                 outputs = list(power.csv = function(r) r$table), entries = function(r) power_keys(r$table)),
+                 outputs = list(power.csv = function(r) r$table), entries = function(r) power_keys(r$table),
+                 # release mode: the cached object rebuilt from the output table (power_keys() reads only the table)
+                 from_outputs = function(t) list(table = t[["power.csv"]]),
+                 col_classes = list(character = c("mde_display", "status"))),
     primary = list(name = "primary", script = E_STEP_SCRIPTS[["primary"]], rds = file.path(cache, "primary.rds"),
                    progress = NULL, out_dir = out_dir,
                    outputs = list(primary_estimates.csv = function(r) r$table), entries = function(r) r$entries),
@@ -445,7 +449,8 @@ e_run_step <- function(def, refit = FALSE) {
 # Resolve one producer step (modes in the header). alive(progress) -> TRUE while the step's detached run is alive;
 # run(def) runs it. Returns list(name, script, status = "cached" | "pending", entries, reason, outputs, rds_sha256).
 resolve_e_step <- function(def, mode = c("use_cache", "default", "refit"), allow_pending = FALSE, alive = power_run_alive,
-                           run = function(def) e_run_step(def, refit = identical(mode, "refit"))) {
+                           run = function(def) e_run_step(def, refit = identical(mode, "refit")),
+                           release = e_release_mode()) {
   mode <- match.arg(mode)
   out_paths <- file.path(def$out_dir, names(def$outputs))
   if (!is.null(def$progress) && isTRUE(alive(def$progress))) {
@@ -461,6 +466,7 @@ resolve_e_step <- function(def, mode = c("use_cache", "default", "refit"), allow
                                           call. = FALSE)
   }
   if (!have_rds && !any(have_out)) return(.pending_or_stop(def, "outputs not written yet", allow_pending))
+  if (!have_rds && all(have_out) && isTRUE(release)) return(release_e_step(def))
   if (!have_rds) stop(sprintf("step %s: the cache %s is missing but its output(s) %s exist; refusing to refit (restore the cache or rerun with --refit)",
                               def$name, .e_rel(def$rds), paste(.e_rel(out_paths[have_out]), collapse = ", ")), call. = FALSE)
   if (!all(have_out)) stop(sprintf("step %s: the cache %s exists but output(s) %s are missing", def$name, .e_rel(def$rds),
@@ -476,6 +482,67 @@ resolve_e_step <- function(def, mode = c("use_cache", "default", "refit"), allow
   }))
   list(name = def$name, script = def$script, status = "cached", entries = def$entries(r), reason = NA_character_,
        outputs = outs, rds = .e_rel(def$rds), rds_sha256 = unname(cli::hash_file_sha256(def$rds)))
+}
+
+# Release mode (final-review finding 3): the step caches (models/E/_cache/<step>.rds) are git-ignored and are not in
+# the public release, so a step whose outputs are all present is resolved from the shipped files, without fitting:
+# each output's sha256 (CRLF -> LF) must equal the value the shipped papers/E/output/provenance.csv records for it (the
+# outputs results.json was assembled from); a step with a from_outputs reader (power) has its keys recomputed from its
+# output table; the keys of the other steps are read from the shipped papers/E/results.json (their computation needs
+# the fitted models, i.e. a refit). Returns the resolve_e_step() list with status "release".
+release_e_step <- function(def, results_json = file.path(PAPER_E, "results.json"),
+                           prov_csv = file.path(E_OUT, "provenance.csv"), contract = E_CONTRACT) {
+  out_paths <- file.path(def$out_dir, names(def$outputs))
+  if (!file.exists(prov_csv)) stop(sprintf("step %s: release mode needs the shipped %s", def$name, .e_rel(prov_csv)),
+                                   call. = FALSE)
+  prov <- data.table::fread(prov_csv, colClasses = "character")
+  outs <- data.table::rbindlist(lapply(out_paths, function(p) {
+    rel <- .e_rel(p)
+    got <- .e_sha256_lf(p)
+    want <- prov[prov$item == paste0("output:", rel)]$value
+    if (length(want) != 1L) stop(sprintf("step %s: %s has no output row in %s", def$name, rel, .e_rel(prov_csv)),
+                                 call. = FALSE)
+    if (!identical(got, want))
+      stop(sprintf("step %s: %s differs from the file recorded in %s (sha256 %s, recorded %s); refusing to assemble",
+                   def$name, rel, .e_rel(prov_csv), got, want), call. = FALSE)
+    data.table::data.table(path = rel, sha256_lf = got)
+  }))
+  if (!is.null(def$from_outputs)) {
+    tabs <- lapply(out_paths, function(p) data.table::fread(p, na.strings = c("", "NA", "NaN"),
+                                                            colClasses = def$col_classes))
+    names(tabs) <- names(def$outputs)
+    entries <- def$entries(def$from_outputs(tabs))
+    how <- sprintf("release mode: keys recomputed from %s", paste(outs$path, collapse = ", "))
+  } else {
+    want <- contract_keys(contract, prefix = "E")
+    ks <- want[e_key_step(want) == def$name]
+    js <- jsonlite::read_json(results_json, simplifyVector = FALSE)
+    miss <- setdiff(ks, names(js))
+    if (length(miss)) stop(sprintf("step %s: %d key(s) missing from %s: %s", def$name, length(miss), .e_rel(results_json),
+                                   paste(head(miss, 10), collapse = ", ")), call. = FALSE)
+    entries <- lapply(js[ks], function(e) list(value = if (is.null(e$value)) NA else e$value, display = e$display,
+                                               script = e$script, description = e$description))
+    how <- sprintf("release mode: keys read from the shipped %s, outputs verified against %s", .e_rel(results_json),
+                   .e_rel(prov_csv))
+  }
+  list(name = def$name, script = def$script, status = "release", entries = entries, reason = how, outputs = outs,
+       rds = NA_character_, rds_sha256 = NA_character_)
+}
+
+# Release check: the assembled results.json against the shipped one. Returns list(n, value_display (keys whose value
+# or display differ), description (keys whose description alone differs), missing, extra).
+compare_e_results <- function(new_json, shipped_json = file.path(PAPER_E, "results.json")) {
+  a <- jsonlite::read_json(new_json, simplifyVector = FALSE)
+  b <- jsonlite::read_json(shipped_json, simplifyVector = FALSE)
+  common <- intersect(names(a), names(b))
+  nz <- function(v) if (is.null(v)) NA else v
+  same_vd <- vapply(common, function(k) identical(nz(a[[k]]$value), nz(b[[k]]$value)) &&
+                                         identical(a[[k]]$display, b[[k]]$display), NA)
+  vd <- common[!same_vd]
+  same_de <- vapply(common, function(k) identical(a[[k]]$description, b[[k]]$description), NA)
+  de <- setdiff(common[!same_de], vd)
+  list(n = length(common), value_display = vd, description = de, missing = setdiff(names(b), names(a)),
+       extra = setdiff(names(a), names(b)))
 }
 
 # ------------------------------------------------------------------ assembly and writing
@@ -542,9 +609,14 @@ assemble_e_results <- function(steps, panel = panel_keys(), contract = E_CONTRAC
   entries
 }
 
-e_provenance <- function(steps, n_keys, pending) {
-  code_commit <- .e_git(c("log", "-1", "--format=%h", "--", E_CODE_PATHS))[1]
-  code_dirty <- length(.e_git(c("status", "--porcelain", "--", E_CODE_PATHS))) > 0L
+e_provenance <- function(steps, n_keys, pending, release = e_release_mode()) {
+  if (isTRUE(release)) {                       # the public release: no working-repository history to read
+    code_commit <- "release copy"
+    code_dirty <- NA
+  } else {
+    code_commit <- .e_git(c("log", "-1", "--format=%h", "--", E_CODE_PATHS))[1]
+    code_dirty <- length(.e_git(c("status", "--porcelain", "--", E_CODE_PATHS))) > 0L
+  }
   rows <- list(data.table::data.table(
     item = c("results_code_commit", "results_code_dirty", "seed", "n_keys", "n_pending"),
     value = c(code_commit, as.character(code_dirty), as.character(SEED_E), as.character(n_keys), as.character(sum(pending))),
@@ -561,14 +633,16 @@ e_provenance <- function(steps, n_keys, pending) {
         note = sprintf("models/E/%s: %s; %d keys pending", s$script, s$reason, pending[[s$name]]))
       next
     }
-    rows[[length(rows) + 1L]] <- data.table::data.table(item = paste0("step:", s$name), value = "cached",
-      note = sprintf("models/E/%s; %d keys from its cache", s$script, length(s$entries)))
-    if (!is.null(s$rds_sha256))
+    rows[[length(rows) + 1L]] <- data.table::data.table(item = paste0("step:", s$name), value = s$status,
+      note = if (identical(s$status, "release")) sprintf("models/E/%s; %d keys (%s)", s$script, length(s$entries), s$reason)
+             else sprintf("models/E/%s; %d keys from its cache", s$script, length(s$entries)))
+    if (!is.null(s$rds_sha256) && !is.na(s$rds_sha256))
       rows[[length(rows) + 1L]] <- data.table::data.table(item = paste0("cache:", s$name), value = s$rds_sha256,
                                                           note = paste("sha256 of", s$rds, "(git-ignored)"))
     if (!is.null(s$outputs) && nrow(s$outputs))
       rows[[length(rows) + 1L]] <- s$outputs[, .(item = paste0("output:", path), value = sha256_lf,
-        note = paste("sha256 (CRLF -> LF); equals the cached table;", vapply(file.path(REPO_ROOT, path), .e_git_state, "")))]
+        note = paste(if (identical(s$status, "release")) "sha256 (CRLF -> LF); equals the shipped provenance.csv;"
+                     else "sha256 (CRLF -> LF); equals the cached table;", vapply(file.path(REPO_ROOT, path), .e_git_state, "")))]
   }
   data.table::rbindlist(rows)
 }

@@ -277,21 +277,8 @@ index_comparison_table <- function(idx, skill) {
   r
 }
 
-# Amendment 3 / F61 ordering: the primary estimates used must come from the rerun with the optimiser limits, i.e.
-# papers/E/output/primary_estimates.csv is tracked, has no uncommitted change, and was committed in a commit after
-# 257aacc (the Amendment 3 contract commit). git(args) as .git_repo() (02_primary.R), injectable for tests. Returns the
-# last such commit.
-assert_primary_post_f61 <- function(path = "papers/E/output/primary_estimates.csv", after = "257aacc", git = .git_repo) {
-  if (!length(git(c("ls-files", "--", path)))) stop("run_forecast: ", path, " is not committed", call. = FALSE)
-  if (length(git(c("status", "--porcelain", "--", path))))
-    stop("run_forecast: ", path, " has uncommitted changes", call. = FALSE)
-  later <- git(c("log", shQuote("--format=%h %ci %s"), paste0(after, "..HEAD"), "--", path))
-  if (!length(later))
-    stop("run_forecast: ", path, " was not committed after ", after, " (contract Amendment 3, F61): rerun 02_primary.R ",
-         "with the optimiser limits and commit its estimates first", call. = FALSE)
-  sprintf("%s committed after %s (last: %s)", path, after, later[1])
-}
-
+# Amendment 3 / F61 ordering: assert_primary_post_f61() (02_primary.R; one guard shared with 04_secondary.R since the
+# final review).
 run_forecast <- function(cores = NULL, primary_csv = file.path(E_OUT, "primary_estimates.csv"),
                          out_skill = file.path(E_OUT, "forecast_skill.csv"),
                          out_idx = file.path(E_OUT, "index_comparison.csv"), rds = file.path(E_CACHE, "forecast.rds"),

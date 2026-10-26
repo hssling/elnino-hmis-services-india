@@ -11,6 +11,13 @@ from pathlib import Path
 
 import pytest
 
+from tests.hmis.release_mode import RELEASE
+
+# The public release has neither the author's tags (its copies are renamed, and it is one root commit) nor, as a zip,
+# any .git: the frozen-code check is a guard of the private repository.
+pytestmark = pytest.mark.skipif(RELEASE, reason="release mode: checks models/common/R against version-control tags of "
+                                                "the author's working repository, which the public release does not "
+                                                "contain")
 REPO = Path(__file__).resolve().parents[2]
 FROZEN = "models/common/R"
 TAGS = ("paperA-submitted", "paperC-submitted", "paperC-submitted-2")

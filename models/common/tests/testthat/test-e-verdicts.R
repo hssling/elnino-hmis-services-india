@@ -439,11 +439,11 @@ test_that("cores rule (speed ruling): 3 while the power run is alive, else detec
 test_that("run_primary needs the power design committed, not power.csv (speed ruling)", {
   # the design check: the contract and 01_power.R tracked and without uncommitted changes
   clean <- function(args) if (args[1] == "ls-files") args[length(args)] else character()
-  expect_match(assert_power_design_fixed(git = clean), "results_keys.md")
+  expect_match(assert_power_design_fixed(git = clean, release = FALSE), "results_keys.md")
   untracked <- function(args) if (args[1] == "ls-files") character() else character()
-  expect_error(assert_power_design_fixed(git = untracked), "not committed")
+  expect_error(assert_power_design_fixed(git = untracked, release = FALSE), "not committed")
   dirty <- function(args) if (args[1] == "ls-files") args[length(args)] else paste(" M", args[length(args)])
-  expect_error(assert_power_design_fixed(git = dirty), "uncommitted changes")
+  expect_error(assert_power_design_fixed(git = dirty, release = FALSE), "uncommitted changes")
   expect_error(run_primary(power_csv = file.path(tempdir(), "no-power.csv"), write = FALSE,
                            check_design = function() stop("the power design is not committed")), "power design")
 })

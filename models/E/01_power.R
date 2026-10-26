@@ -57,7 +57,8 @@ power_progress <- function(path, state, ...) {
 }
 
 # Contract first (plan Global Constraints): papers/E/results_keys.md is tracked and has no uncommitted change.
-assert_contract_committed <- function(path = "papers/E/results_keys.md") {
+assert_contract_committed <- function(path = "papers/E/results_keys.md", release = e_release_mode()) {
+  if (isTRUE(release)) return(e_release_skip("the contract-first check (results_keys.md committed and clean)"))
   if (!length(.git_e(c("ls-files", "--", path)))) stop("the contract ", path, " is not committed", call. = FALSE)
   if (length(.git_e(c("status", "--porcelain", "--", path))))
     stop("the contract ", path, " has uncommitted changes", call. = FALSE)

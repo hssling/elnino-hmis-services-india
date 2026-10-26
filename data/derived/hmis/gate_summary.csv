@@ -6,10 +6,3 @@ mcv1,primary,False,3264,3264,0,0,0,2,0,0,0,0,2,0.0006127450980392157,76,3186,Fal
 fic,primary,False,3264,3264,0,0,0,1,0,0,0,0,1,0.00030637254901960784,78,3185,False,25,3080,94,0,0,2,2017-18 (2 of 12),0.0,0.0,False,
 inst_del,primary,True,3264,3264,0,0,0,0,0,0,0,0,0,0.0,62,3202,False,0,3123,94,0,0,2,2017-18 (2 of 12),0.0,0.0196078431372549,False,
 opd,primary,True,3264,3264,0,0,0,3,0,0,0,0,3,0.0009191176470588235,76,3185,False,0,3045,94,0,0,2,2017-18 (2 of 12),0.0,0.0,False,
-diarr_u5,fy2020_21,True,408,408,0,0,0,4,0,0,0,0,4,0.00980392156862745,62,342,False,72,280,12,0,0,0,,0.0,0.0,False,COVID-period sensitivity; outside the drop and halt rules
-anc_reg,fy2020_21,True,408,408,0,0,0,0,0,0,0,0,0,0.0,60,348,False,4,297,12,0,0,0,,0.0,0.0,False,COVID-period sensitivity; outside the drop and halt rules
-penta3,fy2020_21,True,408,408,0,0,0,0,0,0,0,0,0,0.0,61,347,False,6,295,12,0,0,0,,0.0,0.0,True,COVID-period sensitivity; outside the drop and halt rules
-mcv1,fy2020_21,False,408,408,0,0,0,0,0,0,0,0,0,0.0,62,346,False,8,295,12,0,0,0,,0.0,0.0,True,COVID-period sensitivity; outside the drop and halt rules
-fic,fy2020_21,False,408,408,0,0,0,0,0,0,0,0,0,0.0,62,346,False,7,293,12,0,0,0,,0.0,0.0,False,COVID-period sensitivity; outside the drop and halt rules
-inst_del,fy2020_21,True,408,408,0,0,0,0,0,0,0,0,0,0.0,60,348,False,0,295,12,0,0,0,,0.0,0.0,False,COVID-period sensitivity; outside the drop and halt rules
-opd,fy2020_21,True,408,408,0,0,0,0,0,0,0,0,0,0.0,60,348,False,13,296,12,0,0,0,,0.0,0.0,False,COVID-period sensitivity; outside the drop and halt rules

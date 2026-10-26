@@ -1,4 +1,6 @@
-"""Paper E Tables 1 and 2 as Markdown (Tables 3-4 are written in the manuscript from keys, Task 13).
+"""Paper E working tables A (crosswalk) and B (panel description) as Markdown. They are not numbered in the paper
+(final review, finding 10): the manuscript's Table 1 (panel) and Online Resource 1, Table S1 (crosswalk) are written
+from keys in the manuscript files; these working versions keep the extra descriptive columns.
 
     python papers/E/tables/make_tables.py                    (from <repo>; needs papers/E/results.json)
     python papers/E/tables/make_tables.py --allow-pending    (drafts from results.pending.json; never committed)
@@ -105,7 +107,8 @@ def table1(res: dict, crosswalk: Path = CROSSWALK) -> str:
     cw = pd.read_csv(crosswalk, dtype=str)
     if set(cw["indicator"]) != set(OUTCOMES):
         raise ValueError("crosswalk indicators differ from the seven outcomes")
-    lines = ["# Table 1. Indicator crosswalk and harmonised definitions", "",
+    lines = [("# Working table A (not numbered in the paper; the published version is Online Resource 1, Table S1). "
+              "Indicator crosswalk and harmonised definitions"), "",
              "| Indicator | Role | HMIS items, FY2012-13 to 2016-17 | HMIS items, FY2017-18 to 2020-21 | "
              "Harmonised definition | National April/March 2017 ratio |",
              "|---|---|---|---|---|---|"]
@@ -141,7 +144,8 @@ def table2_data(model_csv: Path = MODEL_CSV) -> pd.DataFrame:
 
 def table2(res: dict, data: pd.DataFrame) -> str:
     d = data.set_index("indicator")
-    lines = ["# Table 2. Panel description, primary window (April 2012 to February 2020)", "",
+    lines = [("# Working table B (not numbered in the paper; the manuscript's Table 1 is the published panel table). "
+              "Panel description, primary window (April 2012 to February 2020)"), "",
              f"Units: {disp(res, 'E.panel.n_units')}. Months: {disp(res, 'E.panel.n_months')}. "
              f"State-months: {disp(res, 'E.panel.n_state_months')}. HMIS status dates (all values provisional): "
              f"{disp(res, 'E.status_date.range')}.", "",

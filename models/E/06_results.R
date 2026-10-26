@@ -50,7 +50,14 @@ run_e_results <- function(mode = "use_cache", allow_pending = FALSE, out_dir = N
   steps <- lapply(defs, function(d) resolve_e_step(d, mode = mode, allow_pending = allow_pending, alive = alive))
   for (s in steps) elog(sprintf("step %s: %s%s", s$name, s$status,
                                 if (identical(s$status, "pending")) paste0(" (", s$reason, ")") else
+                                  if (identical(s$status, "release")) sprintf(" (%d keys; %s)", length(s$entries), s$reason) else
                                   sprintf(" (%d keys from %s)", length(s$entries), s$rds)), file = "results.log")
+  released <- any(vapply(steps, function(s) identical(s$status, "release"), NA))
+  if (released && is.null(out_dir)) {              # never overwrite the shipped results with a release-mode assembly
+    out_dir <- file.path(E_LOGS, "release_check")
+    elog("release mode: steps resolved from the shipped files; writing results.json and provenance.csv to ", out_dir,
+         " (the shipped papers/E/results.json and output/provenance.csv are not overwritten)", file = "results.log")
+  }
   paths <- e_output_paths(out_dir, allow_pending)
   out_json <- paths$json; out_prov <- paths$prov
   r <- write_e_results(steps, panel = panel_keys(), out_json = out_json, out_prov = out_prov, allow_pending = allow_pending)
@@ -61,6 +68,18 @@ run_e_results <- function(mode = "use_cache", allow_pending = FALSE, out_dir = N
   elog(sprintf("06_results: wrote %s (%d keys, %d pending) and %s in %.1f s", out_json, length(r$entries), sum(r$pending),
                out_prov, as.numeric(difftime(Sys.time(), t0, units = "secs"))), file = "results.log")
   elog("conclusion: ", r$entries[["E.abstract.conclusion_sentence"]]$display, file = "results.log")
+  if (released) {
+    cmp <- compare_e_results(out_json)
+    lst <- function(k) if (length(k)) paste0(" (", paste(k, collapse = ", "), ")") else ""
+    elog(sprintf(paste("release check: %d keys compared with the shipped papers/E/results.json; value and display",
+                       "identical for %d, different for %d%s; description alone differs for %d%s"),
+                 cmp$n, cmp$n - length(cmp$value_display), length(cmp$value_display), lst(cmp$value_display),
+                 length(cmp$description), lst(cmp$description)), file = "results.log")
+    if (length(cmp$value_display) || length(cmp$missing) || length(cmp$extra))
+      stop("release check: the assembled results differ from the shipped papers/E/results.json ",
+           "(see models/E/logs/results.log)", call. = FALSE)
+    r$release_check <- cmp
+  }
   invisible(c(r, list(steps = steps, report = rep)))
 }
 

@@ -9,6 +9,8 @@ from pipeline.hmis import exposure as ex
 from pipeline.hmis import model_table as mt
 from pipeline.hmis.crosswalk import INDICATORS
 from pipeline.outcomes import states
+from pipeline import boundaries
+from tests.hmis.release_mode import RELEASE, without_fy2021
 
 
 def _lf(path) -> bytes:
@@ -176,9 +178,16 @@ def test_model_table_lags_agree_with_source(built):
 def test_tracked_model_table_is_current(built):
     _, out = built
     assert mt.MODEL_PATH.exists(), "run python -I pipeline/hmis/run.py model-table"
+    if RELEASE:   # the public release ships the table without its FY2020-21 rows (author's decision, 2026-10-26)
+        assert _lf(mt.MODEL_PATH) == without_fy2021(out.read_bytes()), "hmis_model.csv differs from the rebuilt table"
+        return
     assert _lf(mt.MODEL_PATH) == _lf(out), "hmis_model.csv is stale: rerun model-table"
 
 
+@pytest.mark.skipif(not boundaries.GPKG.is_file(),
+                    reason="needs the GADM 4.1 boundary file data/external/gadm41_IND.gpkg (state areas of the pooled "
+                           "units), which its licence does not let the public release redistribute; download it from "
+                           "https://gadm.org to run this test")
 def test_run_model_table_step_writes_to_given_paths(tmp_path):
     from pipeline.hmis import run
     res = run.model_table_step(climate_out=tmp_path / "c.csv", model_out=tmp_path / "m.csv")
